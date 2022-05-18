@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{DA6D7EF7-5B05-4735-AAF0-A85E47D47989}" version="15.0">
+	<children>
+		<child name="DlgWriteValue" key="{A0C4FC02-45ED-4C78-BC01-4B3C32947213}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="DlgWriteValue" ID="{A0C4FC02-45ED-4C78-BC01-4B3C32947213}" FileName="Regions\DlgWriteValue.png" Update="False" />
+		</child>
+		<child name="RearTerminal" key="{D5E10428-95A2-4A8C-B50F-BD48E30881D8}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="RearTerminal" ID="{D5E10428-95A2-4A8C-B50F-BD48E30881D8}" FileName="Regions\RearTerminal.png" Update="False" />
+		</child>
+		<child name="RearTerminal1" key="{62CE5946-973C-4807-B1F5-00B980E9FCB8}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="RearTerminal1" ID="{62CE5946-973C-4807-B1F5-00B980E9FCB8}" FileName="Regions\RearTerminal1.png" Update="False" />
+		</child>
+		<child name="RearTerminal2" key="{55006E26-4E44-4283-95FC-F32C3A28D234}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="RearTerminal2" ID="{55006E26-4E44-4283-95FC-F32C3A28D234}" FileName="Regions\RearTerminal2.png" Update="False" />
+		</child>
+		<child name="RearTerminal3" key="{19803594-E2AD-4FA4-813A-2ED7F47BD215}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="RearTerminal3" ID="{19803594-E2AD-4FA4-813A-2ED7F47BD215}" FileName="Regions\RearTerminal3.png" Update="False" />
+		</child>
+		<child name="RearTerminal4" key="{6CC39BD6-5936-4B80-9882-E6DDFAA9B257}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="RearTerminal4" ID="{6CC39BD6-5936-4B80-9882-E6DDFAA9B257}" FileName="Regions\RearTerminal4.png" Update="False" />
+		</child>
+		<child name="RearTerminal5" key="{1DECCA72-ECAF-4122-B9EC-4EA19A53C782}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="RearTerminal5" ID="{1DECCA72-ECAF-4122-B9EC-4EA19A53C782}" FileName="Regions\RearTerminal5.png" Update="False" />
+		</child>
+		<child name="RearTerminal6" key="{FAF706EC-5BCF-4D61-9628-C94CC3F3EF95}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="RearTerminal6" ID="{FAF706EC-5BCF-4D61-9628-C94CC3F3EF95}" FileName="Regions\RearTerminal6.png" Update="False" />
+		</child>
+		<child name="RearTerminal7" key="{7015852F-5958-4ABC-A9B2-D554D6950DDA}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="RearTerminal7" ID="{7015852F-5958-4ABC-A9B2-D554D6950DDA}" FileName="Regions\RearTerminal7.png" Update="False" />
+		</child>
+		<child name="RearTerminal8" key="{7E9CAD57-6CED-4860-A28B-909C5281E02E}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="RearTerminal8" ID="{7E9CAD57-6CED-4860-A28B-909C5281E02E}" FileName="Regions\RearTerminal8.png" Update="False" />
+		</child>
+		<child name="RearTerminal9" key="{BF1BC1B0-3F02-447D-8B67-DC308E28FEFE}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="RearTerminal9" ID="{BF1BC1B0-3F02-447D-8B67-DC308E28FEFE}" FileName="Regions\RearTerminal9.png" Update="False" />
+		</child>
+		<child name="RearTerminal10" key="{511074FB-886B-431C-9D05-D1C73D1517AD}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="RearTerminal10" ID="{511074FB-886B-431C-9D05-D1C73D1517AD}" FileName="Regions\RearTerminal10.png" Update="False" />
+		</child>
+		<child name="TBitBtn" key="{22FF7943-1747-4567-9815-4A4BE091E65F}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="TBitBtn" ID="{22FF7943-1747-4567-9815-4A4BE091E65F}" FileName="Regions\TBitBtn.png" Update="False" />
+		</child>
+		<child name="DevicePanel14" key="{933EBC89-B5C5-4378-A125-FE1D42949378}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="DevicePanel14" ID="{933EBC89-B5C5-4378-A125-FE1D42949378}" FileName="Regions\DevicePanel14.png" Update="False" />
+		</child>
+		<child name="DevicePanel15" key="{8CBD590C-C0B1-4449-9E80-12A5A1BCB6B4}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="DevicePanel15" ID="{8CBD590C-C0B1-4449-9E80-12A5A1BCB6B4}" FileName="Regions\DevicePanel15.png" Update="False" />
+		</child>
+		<child name="DevicePanel15_Mask" key="{5D19626E-56EF-443D-8FD6-D267EEB4BD7C}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="DevicePanel15_Mask" ID="{5D19626E-56EF-443D-8FD6-D267EEB4BD7C}" FileName="Regions\DevicePanel15_Mask.png" Update="False" />
+		</child>
+		<child name="DevicePanel16" key="{220FCAEB-0424-4DF1-B3A3-15227C8A63EE}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="DevicePanel16" ID="{220FCAEB-0424-4DF1-B3A3-15227C8A63EE}" FileName="Regions\DevicePanel16.png" Update="False" />
+		</child>
+		<child name="DevicePanel16_Mask" key="{FF3495CE-16BC-4FF8-97D7-EDABA731F2C1}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="DevicePanel16_Mask" ID="{FF3495CE-16BC-4FF8-97D7-EDABA731F2C1}" FileName="Regions\DevicePanel16_Mask.png" Update="False" />
+		</child>
+		<child name="DevicePanel17" key="{E75B4F2B-3A04-430C-9205-6BDCE2C6CBE3}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="DevicePanel17" ID="{E75B4F2B-3A04-430C-9205-6BDCE2C6CBE3}" FileName="Regions\DevicePanel17.png" Update="False" />
+		</child>
+		<child name="DevicePanel17_Mask" key="{A1FA3FD6-F649-4AEF-9B7E-373C88E9CCD9}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="DevicePanel17_Mask" ID="{A1FA3FD6-F649-4AEF-9B7E-373C88E9CCD9}" FileName="Regions\DevicePanel17_Mask.png" Update="False" />
+		</child>
+		<child name="DevicePanel18" key="{C5E3EE6B-6465-4991-8764-366C9D34C3B3}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="DevicePanel18" ID="{C5E3EE6B-6465-4991-8764-366C9D34C3B3}" FileName="Regions\DevicePanel18.png" Update="False" />
+		</child>
+		<child name="DevicePanel19" key="{6F3E9703-634F-4FEA-883A-EAA1F3A93E77}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="DevicePanel19" ID="{6F3E9703-634F-4FEA-883A-EAA1F3A93E77}" FileName="Regions\DevicePanel19.png" Update="False" />
+		</child>
+		<child name="DevicePanel23" key="{1461005E-16CE-4CED-B75B-B4D38EFA636E}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="DevicePanel23" ID="{1461005E-16CE-4CED-B75B-B4D38EFA636E}" FileName="Regions\DevicePanel23.png" Update="False" />
+		</child>
+		<child name="DevicePanel24_Mask" key="{6C3B9FCA-F647-4D8A-B6FC-6C06C74E1779}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="DevicePanel24_Mask" ID="{6C3B9FCA-F647-4D8A-B6FC-6C06C74E1779}" FileName="Regions\DevicePanel24_Mask.png" Update="False" />
+		</child>
+		<child name="DevicePanelC" key="{9479BFFE-47A8-46B7-AE57-29A26EA2F0A8}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="DevicePanelC" ID="{9479BFFE-47A8-46B7-AE57-29A26EA2F0A8}" FileName="Regions\DevicePanelC.png" Update="False" />
+		</child>
+		<child name="DevicePanel2" key="{4E8FA886-4F8D-4B7B-8190-C7E75B801DE3}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="DevicePanel2" ID="{4E8FA886-4F8D-4B7B-8190-C7E75B801DE3}" FileName="Regions\DevicePanel2.png" Update="False" />
+		</child>
+		<child name="DevicePanel_Mask" key="{CBB9477A-E3F9-4793-B288-D36E1225E8E8}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="DevicePanel_Mask" ID="{CBB9477A-E3F9-4793-B288-D36E1225E8E8}" FileName="Regions\DevicePanel_Mask.png" Update="False" />
+		</child>
+		<child name="DevicePanel3" key="{F9FF15F7-0F51-4784-A25F-AF5863C6EA0F}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="DevicePanel3" ID="{F9FF15F7-0F51-4784-A25F-AF5863C6EA0F}" FileName="Regions\DevicePanel3.png" Update="False" />
+		</child>
+		<child name="DevicePanel3_Mask" key="{278717EF-FD0A-4881-9108-1B898399DD2E}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="DevicePanel3_Mask" ID="{278717EF-FD0A-4881-9108-1B898399DD2E}" FileName="Regions\DevicePanel3_Mask.png" Update="False" />
+		</child>
+		<child name="DevicePanel" key="{32D40B85-AD8C-4772-8BC1-D0B47F9A5BCB}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="DevicePanel" ID="{32D40B85-AD8C-4772-8BC1-D0B47F9A5BCB}" FileName="Regions\DevicePanel.png" Update="False" />
+		</child>
+		<child name="DevicePanel_Mask1" key="{E373B3A1-E987-43B7-B4E5-8B62D87820A8}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="DevicePanel_Mask1" ID="{E373B3A1-E987-43B7-B4E5-8B62D87820A8}" FileName="Regions\DevicePanel_Mask1.png" Update="False" />
+		</child>
+		<child name="DevicePanel1" key="{BA47DD36-DAAA-4849-BAD4-9A2C631336B4}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="DevicePanel1" ID="{BA47DD36-DAAA-4849-BAD4-9A2C631336B4}" FileName="Regions\DevicePanel1.png" Update="False" />
+		</child>
+		<child name="DevicePanel1_Mask" key="{F657BF78-E99E-4010-BD88-DCB8599DD87B}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="DevicePanel1_Mask" ID="{F657BF78-E99E-4010-BD88-DCB8599DD87B}" FileName="Regions\DevicePanel1_Mask.png" Update="False" />
+		</child>
+		<child name="DevicePanel4" key="{7624EDF3-1F4B-4DBD-9F83-B43C4B1AF89E}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="DevicePanel4" ID="{7624EDF3-1F4B-4DBD-9F83-B43C4B1AF89E}" FileName="Regions\DevicePanel4.png" Update="False" />
+		</child>
+		<child name="DevicePanel5" key="{07AC8309-00D7-4F4D-93F7-3FBE22BE756D}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="DevicePanel5" ID="{07AC8309-00D7-4F4D-93F7-3FBE22BE756D}" FileName="Regions\DevicePanel5.png" Update="False" />
+		</child>
+		<child name="DevicePanel5_Mask" key="{65702C8A-B86E-4A9D-BA3E-80379545AAF1}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="DevicePanel5_Mask" ID="{65702C8A-B86E-4A9D-BA3E-80379545AAF1}" FileName="Regions\DevicePanel5_Mask.png" Update="False" />
+		</child>
+		<child name="DevicePanel6" key="{5B2E69F2-F835-441E-AD48-DA0AF93F1CC1}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="DevicePanel6" ID="{5B2E69F2-F835-441E-AD48-DA0AF93F1CC1}" FileName="Regions\DevicePanel6.png" Update="False" />
+		</child>
+		<child name="DevicePanel6_Mask" key="{D7B822B7-2875-4C76-92C0-2D69F7FEAA1F}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="DevicePanel6_Mask" ID="{D7B822B7-2875-4C76-92C0-2D69F7FEAA1F}" FileName="Regions\DevicePanel6_Mask.png" Update="False" />
+		</child>
+		<child name="DevicePanel7" key="{DA50B9B9-DA23-4C7F-B5B6-CA0B54A7B7CB}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="DevicePanel7" ID="{DA50B9B9-DA23-4C7F-B5B6-CA0B54A7B7CB}" FileName="Regions\DevicePanel7.png" Update="False" />
+		</child>
+		<child name="DevicePanel7_Mask" key="{682DD9DF-0063-4E32-B8E4-7E34EC24EE75}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="DevicePanel7_Mask" ID="{682DD9DF-0063-4E32-B8E4-7E34EC24EE75}" FileName="Regions\DevicePanel7_Mask.png" Update="False" />
+		</child>
+		<child name="DevicePanel8" key="{091D9ED0-2A75-4B58-BD27-0BFA3BEAD3F5}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="DevicePanel8" ID="{091D9ED0-2A75-4B58-BD27-0BFA3BEAD3F5}" FileName="Regions\DevicePanel8.png" Update="False" />
+		</child>
+		<child name="DevicePanel8_Mask" key="{0FAA4BF8-6BCB-4ED9-919A-9FEE2BDE125F}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="DevicePanel8_Mask" ID="{0FAA4BF8-6BCB-4ED9-919A-9FEE2BDE125F}" FileName="Regions\DevicePanel8_Mask.png" Update="False" />
+		</child>
+		<child name="DevicePanel9" key="{2949276B-CB8E-46C1-9EEA-44512FDEAC24}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="DevicePanel9" ID="{2949276B-CB8E-46C1-9EEA-44512FDEAC24}" FileName="Regions\DevicePanel9.png" Update="False" />
+		</child>
+		<child name="DevicePanel9_Mask" key="{4D32656E-A73A-4442-A893-6FBB919DE0E2}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="DevicePanel9_Mask" ID="{4D32656E-A73A-4442-A893-6FBB919DE0E2}" FileName="Regions\DevicePanel9_Mask.png" Update="False" />
+		</child>
+		<child name="DevicePanel10" key="{5C2050E7-C1D6-4A30-830C-CCF512760F17}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="DevicePanel10" ID="{5C2050E7-C1D6-4A30-830C-CCF512760F17}" FileName="Regions\DevicePanel10.png" Update="False" />
+		</child>
+		<child name="DevicePanel10_Mask" key="{38BE1EB7-6F79-4A70-B574-5D8C83AF5E37}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="DevicePanel10_Mask" ID="{38BE1EB7-6F79-4A70-B574-5D8C83AF5E37}" FileName="Regions\DevicePanel10_Mask.png" Update="False" />
+		</child>
+		<child name="DevicePanel11" key="{C9E3D234-A6AE-43A0-939C-427AB153D587}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="DevicePanel11" ID="{C9E3D234-A6AE-43A0-939C-427AB153D587}" FileName="Regions\DevicePanel11.png" Update="False" />
+		</child>
+		<child name="DevicePanel11_Mask" key="{6961F077-5714-4DEE-86CA-C51671CBB55A}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="DevicePanel11_Mask" ID="{6961F077-5714-4DEE-86CA-C51671CBB55A}" FileName="Regions\DevicePanel11_Mask.png" Update="False" />
+		</child>
+		<child name="DevicePanel12" key="{BC31850D-A99F-4BAD-A96E-6917158E7F33}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="DevicePanel12" ID="{BC31850D-A99F-4BAD-A96E-6917158E7F33}" FileName="Regions\DevicePanel12.png" Update="False" />
+		</child>
+		<child name="DevicePanel12_Mask" key="{103BE54C-CEC0-4E23-A754-4B3BF47A6542}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="DevicePanel12_Mask" ID="{103BE54C-CEC0-4E23-A754-4B3BF47A6542}" FileName="Regions\DevicePanel12_Mask.png" Update="False" />
+		</child>
+		<child name="DevicePanel13" key="{D8728317-BB32-44E3-B406-CCADF8B6F1F8}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="DevicePanel13" ID="{D8728317-BB32-44E3-B406-CCADF8B6F1F8}" FileName="Regions\DevicePanel13.png" Update="False" />
+		</child>
+		<child name="DevicePanel13_Mask" key="{8C6ED473-ED62-46B2-8A57-99C2B584B7F7}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="DevicePanel13_Mask" ID="{8C6ED473-ED62-46B2-8A57-99C2B584B7F7}" FileName="Regions\DevicePanel13_Mask.png" Update="False" />
+		</child>
+		<child name="DevicePanel20" key="{2480274B-AA1B-4376-AE7E-1537FD5BB0B6}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="DevicePanel20" ID="{2480274B-AA1B-4376-AE7E-1537FD5BB0B6}" FileName="Regions\DevicePanel20.png" Update="False" />
+		</child>
+		<child name="DevicePanel20_Mask" key="{5080A02C-4C19-4719-967B-67E6C0B1152B}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="DevicePanel20_Mask" ID="{5080A02C-4C19-4719-967B-67E6C0B1152B}" FileName="Regions\DevicePanel20_Mask.png" Update="False" />
+		</child>
+		<child name="DevicePanel21" key="{66E9E126-13A3-4A6B-8ACD-15EAF9C73383}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="DevicePanel21" ID="{66E9E126-13A3-4A6B-8ACD-15EAF9C73383}" FileName="Regions\DevicePanel21.png" Update="False" />
+		</child>
+		<child name="DevicePanel21_Mask" key="{30B8F62A-799B-40CE-9752-C9EE1DE8BD74}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="DevicePanel21_Mask" ID="{30B8F62A-799B-40CE-9752-C9EE1DE8BD74}" FileName="Regions\DevicePanel21_Mask.png" Update="False" />
+		</child>
+		<child name="DevicePanel22" key="{64D4D619-5B98-4011-BA78-11CBDC76F8B7}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="DevicePanel22" ID="{64D4D619-5B98-4011-BA78-11CBDC76F8B7}" FileName="Regions\DevicePanel22.png" Update="False" />
+		</child>
+		<child name="DevicePanel22_Mask" key="{BC49D7C3-6CC4-4E66-B338-FB29C53E774C}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="DevicePanel22_Mask" ID="{BC49D7C3-6CC4-4E66-B338-FB29C53E774C}" FileName="Regions\DevicePanel22_Mask.png" Update="False" />
+		</child>
+		<child name="DevicePanel24" key="{B012833F-D79C-48EA-ACAA-970092CD5530}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="DevicePanel24" ID="{B012833F-D79C-48EA-ACAA-970092CD5530}" FileName="Regions\DevicePanel24.png" Update="False" />
+		</child>
+		<child name="DevicePanel24_Mask1" key="{A5525E6D-7675-4DC9-BDBB-4DCE29E59BE8}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="DevicePanel24_Mask1" ID="{A5525E6D-7675-4DC9-BDBB-4DCE29E59BE8}" FileName="Regions\DevicePanel24_Mask1.png" Update="False" />
+		</child>
+		<child name="DevicePanel25" key="{D0C04B87-DCEB-4341-8D2F-144BAD650A30}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="DevicePanel25" ID="{D0C04B87-DCEB-4341-8D2F-144BAD650A30}" FileName="Regions\DevicePanel25.png" Update="False" />
+		</child>
+		<child name="DevicePanel26" key="{2BFEB966-32A7-4985-9FE5-DD825BE838D2}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="DevicePanel26" ID="{2BFEB966-32A7-4985-9FE5-DD825BE838D2}" FileName="Regions\DevicePanel26.png" Update="False" />
+		</child>
+		<child name="DevicePanel26_Mask" key="{8811C4A1-81E3-478D-9770-4F0758FD772F}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="DevicePanel26_Mask" ID="{8811C4A1-81E3-478D-9770-4F0758FD772F}" FileName="Regions\DevicePanel26_Mask.png" Update="False" />
+		</child>
+		<child name="DevicePanel27" key="{871142E7-378C-43B7-9040-8B1DAA3F5C01}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="DevicePanel27" ID="{871142E7-378C-43B7-9040-8B1DAA3F5C01}" FileName="Regions\DevicePanel27.png" Update="False" />
+		</child>
+		<child name="DevicePanel27_Mask" key="{E7BB8348-27A9-41B7-ABB4-226CE6642872}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="DevicePanel27_Mask" ID="{E7BB8348-27A9-41B7-ABB4-226CE6642872}" FileName="Regions\DevicePanel27_Mask.png" Update="False" />
+		</child>
+		<child name="DevicePanel28" key="{1865299E-04BE-4E9A-920A-B00BD81B0EA8}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="DevicePanel28" ID="{1865299E-04BE-4E9A-920A-B00BD81B0EA8}" FileName="Regions\DevicePanel28.png" Update="False" />
+		</child>
+		<child name="DevicePanel28_Mask" key="{9CAEBD9B-1A25-410B-A129-C2BA61C07F8B}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="DevicePanel28_Mask" ID="{9CAEBD9B-1A25-410B-A129-C2BA61C07F8B}" FileName="Regions\DevicePanel28_Mask.png" Update="False" />
+		</child>
+		<child name="DevicePanel29" key="{A2D96C87-CDE2-43A2-AC4C-6B264F3EC043}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="DevicePanel29" ID="{A2D96C87-CDE2-43A2-AC4C-6B264F3EC043}" FileName="Regions\DevicePanel29.png" Update="False" />
+		</child>
+		<child name="DevicePanel29_Mask" key="{3249D52E-05BE-44C7-9BB7-AB9089BB3DBE}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="DevicePanel29_Mask" ID="{3249D52E-05BE-44C7-9BB7-AB9089BB3DBE}" FileName="Regions\DevicePanel29_Mask.png" Update="False" />
+		</child>
+		<child name="DevicePanel30" key="{23DA897C-76AD-42BF-9CDA-FC7CF71FE93E}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="DevicePanel30" ID="{23DA897C-76AD-42BF-9CDA-FC7CF71FE93E}" FileName="Regions\DevicePanel30.png" Update="False" />
+		</child>
+		<child name="DevicePanel30_Mask" key="{2DA03230-2544-4613-8018-6260AB437CAA}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="DevicePanel30_Mask" ID="{2DA03230-2544-4613-8018-6260AB437CAA}" FileName="Regions\DevicePanel30_Mask.png" Update="False" />
+		</child>
+		<child name="DevicePanel31" key="{3B07A2CF-1F43-4B30-98C1-93C44A20DA90}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="DevicePanel31" ID="{3B07A2CF-1F43-4B30-98C1-93C44A20DA90}" FileName="Regions\DevicePanel31.png" Update="False" />
+		</child>
+		<child name="DevicePanel31_Mask" key="{D8095EB4-E981-4211-AB35-AFB7DFCB7C2D}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="DevicePanel31_Mask" ID="{D8095EB4-E981-4211-AB35-AFB7DFCB7C2D}" FileName="Regions\DevicePanel31_Mask.png" Update="False" />
+		</child>
+		<child name="DevicePanel32" key="{7C2D3EDE-FA69-495B-A378-82578A1DAA53}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="DevicePanel32" ID="{7C2D3EDE-FA69-495B-A378-82578A1DAA53}" FileName="Regions\DevicePanel32.png" Update="False" />
+		</child>
+		<child name="DevicePanel32_Mask" key="{6425B992-4946-44A5-9873-9D7BE2522EF5}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="DevicePanel32_Mask" ID="{6425B992-4946-44A5-9873-9D7BE2522EF5}" FileName="Regions\DevicePanel32_Mask.png" Update="False" />
+		</child>
+		<child name="DevicePanel33" key="{430DA711-564F-4F7B-85DA-082042B72607}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="DevicePanel33" ID="{430DA711-564F-4F7B-85DA-082042B72607}" FileName="Regions\DevicePanel33.png" Update="False" />
+		</child>
+		<child name="DevicePanel33_Mask" key="{E12341D8-E0C9-43FC-8C83-F576D90A357C}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="DevicePanel33_Mask" ID="{E12341D8-E0C9-43FC-8C83-F576D90A357C}" FileName="Regions\DevicePanel33_Mask.png" Update="False" />
+		</child>
+	</children>
+</Root>

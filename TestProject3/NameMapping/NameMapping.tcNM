@@ -1,0 +1,2553 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root Signature="{5DCBAC3B-D39C-497C-9BE8-744CBADD37AA}" NameMappingVersion="7" SaveImages="0">
+	<Storages Current="0">
+		<Child Name="Default Configuration" />
+	</Storages>
+	<Nodes Name="NameMapping" Key="{BE401E45-B2D6-4FBA-931A-C2117D5C51AD}">
+		<Children>
+			<Child Name="Sys" Key="{7CAC0D41-AEA2-4CDF-9805-0DD20EAE62CA}">
+				<TypeInfo Item0="{5BF4E586-D6C6-43AC-924E-3FD336555885}" />
+				<Properties>
+					<Property Name="Name">
+						<Value Value="Sys" />
+					</Property>
+				</Properties>
+				<Children>
+					<Child Name="Orders" Key="{BD5BC409-6385-403F-9E4F-D785FDA1F482}">
+						<TypeInfo Item0="{191EB9EE-DFA8-45E1-95AC-BD7F32B8B6E1}" />
+						<Properties>
+							<Property Name="ProcessName">
+								<Value Value="Orders" />
+							</Property>
+						</Properties>
+						<Children>
+							<Child Name="MainForm" Key="{5E47F83C-C915-4EA1-B7F7-04FFD4EBD82C}">
+								<Image FileName="484415639" Left="379" Top="160" Right="987" Bottom="568" />
+								<TypeInfo Item0="{F7A51A30-412E-41C5-9375-99C4B5CA655F}" />
+								<Properties>
+									<Property Name="WinFormsControlName">
+										<Value Value="MainForm" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="OrdersView" Key="{C362A44C-09EA-455E-A403-744D07779EE6}">
+										<Image FileName="1215798564" Left="8" Top="79" Right="600" Bottom="378" />
+										<TypeInfo Item0="{7A1312A3-2D26-4273-94D1-FB445A44FDB9}" />
+										<Properties>
+											<Property Name="WinFormsControlName">
+												<Value Value="OrdersView" />
+											</Property>
+										</Properties>
+									</Child>
+								</Children>
+							</Child>
+							<Child Name="OrderForm" Key="{145A4847-CA8C-435C-A115-526D1641F919}">
+								<Image FileName="-1633605603" Left="0" Top="0" Right="488" Bottom="478" />
+								<TypeInfo Item0="{F7A51A30-412E-41C5-9375-99C4B5CA655F}" />
+								<Properties>
+									<Property Name="WinFormsControlName">
+										<Value Value="OrderForm" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="Group" Key="{F2819792-7B8D-4BD1-AAB5-54A6DEDF1EE1}">
+										<Image FileName="-1633605603" Left="11" Top="34" Right="475" Bottom="434" />
+										<TypeInfo Item0="{1B74BA3D-9994-4D51-AB04-DD3A7B68082E}" />
+										<Properties>
+											<Property Name="WinFormsControlName">
+												<Value Value="Group" />
+											</Property>
+										</Properties>
+										<Children>
+											<Child Name="label7" Key="{7C5B6590-A3F5-4F18-B819-24F97C0CCC6E}">
+												<Image FileName="-1633605603" Left="19" Top="196" Right="112" Bottom="213" />
+												<TypeInfo Item0="{1B74BA3D-9994-4D51-AB04-DD3A7B68082E}" />
+												<Properties>
+													<Property Name="WinFormsControlName">
+														<Value Value="label7" />
+													</Property>
+												</Properties>
+											</Child>
+											<Child Name="Customer" Key="{05106DAB-492D-47F7-9D6E-33B30B2D1222}">
+												<Image FileName="1272068697" Left="115" Top="194" Right="467" Bottom="214" />
+												<TypeInfo Item0="{63CCBB74-BB3C-4EEF-9A2E-A32BD9D8E578}" />
+												<Properties>
+													<Property Name="WinFormsControlName">
+														<Value Value="Customer" />
+													</Property>
+												</Properties>
+											</Child>
+											<Child Name="label8" Key="{4AAA539F-1AA5-4641-854E-D82B38207F7B}">
+												<Image FileName="1536522635" Left="19" Top="228" Right="58" Bottom="245" />
+												<TypeInfo Item0="{1B74BA3D-9994-4D51-AB04-DD3A7B68082E}" />
+												<Properties>
+													<Property Name="WinFormsControlName">
+														<Value Value="label8" />
+													</Property>
+												</Properties>
+											</Child>
+											<Child Name="Street" Key="{DCC8B417-FDC7-42D5-82FD-6B2DD444C82D}">
+												<Image FileName="-1425644234" Left="115" Top="226" Right="243" Bottom="246" />
+												<TypeInfo Item0="{63CCBB74-BB3C-4EEF-9A2E-A32BD9D8E578}" />
+												<Properties>
+													<Property Name="WinFormsControlName">
+														<Value Value="Street" />
+													</Property>
+												</Properties>
+											</Child>
+											<Child Name="label9" Key="{737199CF-0163-47FC-8A72-C61F95501AFD}">
+												<Image FileName="722046348" Left="251" Top="230" Right="279" Bottom="247" />
+												<TypeInfo Item0="{1B74BA3D-9994-4D51-AB04-DD3A7B68082E}" />
+												<Properties>
+													<Property Name="WinFormsControlName">
+														<Value Value="label9" />
+													</Property>
+												</Properties>
+											</Child>
+											<Child Name="City" Key="{CB737412-5A99-4A93-A9D4-AFD36B33CFA8}">
+												<Image FileName="-1226766364" Left="339" Top="226" Right="467" Bottom="246" />
+												<TypeInfo Item0="{63CCBB74-BB3C-4EEF-9A2E-A32BD9D8E578}" />
+												<Properties>
+													<Property Name="WinFormsControlName">
+														<Value Value="City" />
+													</Property>
+												</Properties>
+											</Child>
+											<Child Name="label10" Key="{7655D650-79D2-4AA9-812F-8ADCADF039C4}">
+												<Image FileName="1374414509" Left="19" Top="264" Right="54" Bottom="281" />
+												<TypeInfo Item0="{1B74BA3D-9994-4D51-AB04-DD3A7B68082E}" />
+												<Properties>
+													<Property Name="WinFormsControlName">
+														<Value Value="label10" />
+													</Property>
+												</Properties>
+											</Child>
+											<Child Name="State_" Key="{BAD85FCC-8442-4770-B8A5-D521AB2AF1C4}">
+												<Image FileName="-1027242651" Left="115" Top="258" Right="243" Bottom="278" />
+												<TypeInfo Item0="{63CCBB74-BB3C-4EEF-9A2E-A32BD9D8E578}" />
+												<Properties>
+													<Property Name="WinFormsControlName">
+														<Value Value="State" />
+													</Property>
+												</Properties>
+											</Child>
+											<Child Name="label11" Key="{6D47DB2B-7F08-488F-935F-639DF002E327}">
+												<Image FileName="1504719648" Left="251" Top="259" Right="275" Bottom="276" />
+												<TypeInfo Item0="{1B74BA3D-9994-4D51-AB04-DD3A7B68082E}" />
+												<Properties>
+													<Property Name="WinFormsControlName">
+														<Value Value="label11" />
+													</Property>
+												</Properties>
+											</Child>
+											<Child Name="Zip" Key="{771CB251-8E31-4096-87F1-FC6E99709152}">
+												<Image FileName="812776680" Left="339" Top="258" Right="467" Bottom="278" />
+												<TypeInfo Item0="{63CCBB74-BB3C-4EEF-9A2E-A32BD9D8E578}" />
+												<Properties>
+													<Property Name="WinFormsControlName">
+														<Value Value="Zip" />
+													</Property>
+												</Properties>
+											</Child>
+											<Child Name="label13" Key="{A7E757DB-E18E-4EF2-82A0-0E75292FFB34}">
+												<Image FileName="-564529619" Left="19" Top="374" Right="67" Bottom="391" />
+												<TypeInfo Item0="{1B74BA3D-9994-4D51-AB04-DD3A7B68082E}" />
+												<Properties>
+													<Property Name="WinFormsControlName">
+														<Value Value="label13" />
+													</Property>
+												</Properties>
+											</Child>
+											<Child Name="CardNo" Key="{504B599B-F45B-40F0-9E0A-3ABBA1BC0944}">
+												<Image FileName="1821045150" Left="115" Top="370" Right="467" Bottom="390" />
+												<TypeInfo Item0="{63CCBB74-BB3C-4EEF-9A2E-A32BD9D8E578}" />
+												<Properties>
+													<Property Name="WinFormsControlName">
+														<Value Value="CardNo" />
+													</Property>
+												</Properties>
+											</Child>
+										</Children>
+									</Child>
+									<Child Name="ButtonOK" Key="{4DF8013C-16E1-4953-BA6C-5790C8102F68}">
+										<Image FileName="1977324384" Left="323" Top="442" Right="395" Bottom="466" />
+										<TypeInfo Item0="{B7CC6425-CEA1-45CB-96DE-BD424B7818F1}" />
+										<Properties>
+											<Property Name="WinFormsControlName">
+												<Value Value="ButtonOK" />
+											</Property>
+										</Properties>
+									</Child>
+								</Children>
+							</Child>
+							<Child Name="dlgSaveAs" Key="{34197DA6-0F5B-46FD-8EFB-3AB07A2E3B09}">
+								<Image FileName="1818400861" Left="0" Top="0" Right="683" Bottom="480" />
+								<Properties>
+									<Property Name="WndClass">
+										<Value Value="#32770" />
+									</Property>
+									<Property Name="WndCaption">
+										<Value Value="Save As" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="btnCancel" Key="{3F7AF602-21B6-4AFE-B73B-1E13C87CBD5A}">
+										<Image FileName="1818400861" Left="570" Top="434" Right="658" Bottom="460" />
+										<TypeInfo Item0="{7D502C81-7BFC-4185-9164-BCF4C405F9C6}" />
+										<Properties>
+											<Property Name="WndClass">
+												<Value Value="Button" />
+											</Property>
+											<Property Name="WndCaption">
+												<Value Value="Cancel" />
+											</Property>
+										</Properties>
+									</Child>
+								</Children>
+							</Child>
+							<Child Name="dlgConfirmation" Key="{968CB4EF-5120-4B71-973A-63D5F0870FBB}">
+								<Image FileName="-845572251" Left="0" Top="0" Right="290" Bottom="149" />
+								<Properties>
+									<Property Name="WndClass">
+										<Value Value="#32770" />
+									</Property>
+									<Property Name="WndCaption">
+										<Value Value="Confirmation" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="btnNo" Key="{970592C2-0DF7-47DB-B830-74A0142A33B7}">
+										<Image FileName="-845572251" Left="113" Top="114" Right="188" Bottom="137" />
+										<TypeInfo Item0="{7D502C81-7BFC-4185-9164-BCF4C405F9C6}" />
+										<Properties>
+											<Property Name="WndClass">
+												<Value Value="Button" />
+											</Property>
+											<Property Name="WndCaption">
+												<Value Value="&amp;No" />
+											</Property>
+										</Properties>
+									</Child>
+								</Children>
+							</Child>
+						</Children>
+					</Child>
+					<Child Name="iTools" Key="{09D04428-E64E-4A68-A4C7-593440EF4F82}">
+						<TypeInfo Item0="{191EB9EE-DFA8-45E1-95AC-BD7F32B8B6E1}" />
+						<Properties>
+							<Property Name="ProcessName">
+								<Value Value="iTools" />
+							</Property>
+						</Properties>
+						<Children>
+							<Child Name="FrmMain" Key="{F50D3836-4DE5-4DD6-8334-B55A85182BF2}">
+								<Image FileName="-1354456491" Left="0" Top="0" Right="1366" Bottom="728" />
+								<TypeInfo Item0="{C7908093-BE5A-4511-967C-F53F967B672B}" />
+								<Properties>
+									<Property Name="ClassName">
+										<Value Value="TFrmMain" />
+									</Property>
+									<Property Name="ObjectIdentifier">
+										<Value Value="FrmMain" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="MDIClient" Key="{01B84021-A86A-4EB2-BBF9-2A48C6D56367}">
+										<Image FileName="-1354456491" Left="197" Top="125" Right="1358" Bottom="576" />
+										<TypeInfo Item0="{42BA0DF8-CAAC-46EF-B8C9-069C56BFDD94}" />
+										<Properties>
+											<Property Name="WndClass">
+												<Value Value="MDIClient" />
+											</Property>
+										</Properties>
+										<Children>
+											<Child Name="FrmParamList" Key="{5152E084-9902-4FBD-AE7A-ABB515267B1E}">
+												<Image FileName="-1354456491" Left="189" Top="94" Right="1366" Bottom="584" />
+												<TypeInfo Item0="{B97085AA-3BE2-444A-AA9C-94E15E2B5F23}" />
+												<Properties>
+													<Property Name="ClassName">
+														<Value Value="TFrmBrowseParamList" />
+													</Property>
+													<Property Name="ObjectIdentifier">
+														<Value Value="FrmParamList" />
+													</Property>
+												</Properties>
+												<Children>
+													<Child Name="TheTabControl" Key="{378A1E79-92F7-42C3-8233-CE56816C433D}">
+														<Image FileName="-1354456491" Left="197" Top="147" Right="1358" Bottom="576" />
+														<TypeInfo Item0="{61DF179C-0319-4F07-8F11-D46B5B76F6F4}" />
+														<Properties>
+															<Property Name="ClassName">
+																<Value Value="TUivTabControl" />
+															</Property>
+															<Property Name="ObjectIdentifier">
+																<Value Value="TheTabControl" />
+															</Property>
+														</Properties>
+														<Children>
+															<Child Name="List" Key="{E4BEA124-357E-4220-B37B-4B5EAE99F615}">
+																<Image FileName="-1354456491" Left="201" Top="153" Right="1354" Bottom="551" />
+																<TypeInfo Item0="{9DDEFE08-5CA7-4EAF-9F73-2E908144A81F}" />
+																<Properties>
+																	<Property Name="ClassName">
+																		<Value Value="TUivOPCItemGrid" />
+																	</Property>
+																	<Property Name="ObjectIdentifier">
+																		<Value Value="List" />
+																	</Property>
+																</Properties>
+																<Children>
+																	<Child Name="TtsGridEditBox" Key="{4BC00DD0-32FC-411B-8B6C-B7A3C07425AC}">
+																		<Image FileName="1517971026" Left="494" Top="305" Right="590" Bottom="319" />
+																		<TypeInfo Item0="{9DDEFE08-5CA7-4EAF-9F73-2E908144A81F}" />
+																		<Properties>
+																			<Property Name="WndClass">
+																				<Value Value="TtsGridEditBox" />
+																			</Property>
+																		</Properties>
+																	</Child>
+																</Children>
+															</Child>
+														</Children>
+													</Child>
+												</Children>
+											</Child>
+											<Child Name="FrmTerminal_1" Key="{B7655361-8ACF-4A25-9450-C55EF035BCBA}">
+												<Image FileName="-1604835640" Left="189" Top="94" Right="1362" Bottom="584" />
+												<Properties>
+													<Property Name="ClassName">
+														<Value Value="TFrmTerminal" />
+													</Property>
+													<Property Name="ObjectIdentifier">
+														<Value Value="FrmTerminal_1" />
+													</Property>
+												</Properties>
+												<Children>
+													<Child Name="pnlClient" Key="{718A19DA-397A-4C27-AC2E-1CF0319446AE}">
+														<Image FileName="-1604835640" Left="197" Top="149" Right="1354" Bottom="576" />
+														<Properties>
+															<Property Name="ClassName">
+																<Value Value="TPanel" />
+															</Property>
+															<Property Name="ObjectIdentifier">
+																<Value Value="pnlClient" />
+															</Property>
+														</Properties>
+														<Children>
+															<Child Name="RearTerminal" Key="{CFEDA4DC-EFA6-4ED5-BB0E-EE7A0973E996}">
+																<Image FileName="-1604835640" Left="197" Top="149" Right="1354" Bottom="576" />
+																<Properties>
+																	<Property Name="ClassName">
+																		<Value Value="TUivTermEditor" />
+																	</Property>
+																	<Property Name="ObjectIdentifier">
+																		<Value Value="RearTerminal" />
+																	</Property>
+																</Properties>
+																<Children>
+																	<Child Name="ThePageControl" Key="{98613568-29C2-4F03-8DFF-18947D848012}">
+																		<Image FileName="-1604835640" Left="197" Top="149" Right="1354" Bottom="576" />
+																		<Properties>
+																			<Property Name="ClassName">
+																				<Value Value="TPageControl" />
+																			</Property>
+																			<Property Name="ObjectIdentifier">
+																				<Value Value="ThePageControl" />
+																			</Property>
+																		</Properties>
+																		<Children>
+																			<Child Name="tabDiagram" Key="{735D66BA-42C6-4130-9A3D-F5C4790AC0E7}">
+																				<Image FileName="-1604835640" Left="201" Top="175" Right="1350" Bottom="572" />
+																				<Properties>
+																					<Property Name="ClassName">
+																						<Value Value="TTabSheet" />
+																					</Property>
+																					<Property Name="ObjectIdentifier">
+																						<Value Value="tabDiagram" />
+																					</Property>
+																				</Properties>
+																				<Children>
+																					<Child Name="TPanel" Key="{7C9706E9-F3DC-40DA-AF56-DBD8B8381D7D}">
+																						<Image FileName="-1604835640" Left="201" Top="175" Right="1350" Bottom="572" />
+																						<Properties>
+																							<Property Name="WndClass">
+																								<Value Value="TPanel" />
+																							</Property>
+																						</Properties>
+																						<Children>
+																							<Child Name="RearTerminal" Key="{A934B47F-21D5-4FB5-8AAF-8E6F5D1B4F51}">
+																								<Image FileName="-1604835640" Left="202" Top="176" Right="1349" Bottom="505" />
+																								<TypeInfo Item0="{1170BAE1-F8FE-40A7-A9ED-3AB44DAA39CA}" />
+																								<Properties>
+																									<Property Name="ClassName">
+																										<Value Value="TUivTermDiag" />
+																									</Property>
+																									<Property Name="ObjectIdentifier">
+																										<Value Value="RearTerminal" />
+																									</Property>
+																								</Properties>
+																							</Child>
+																							<Child Name="pnlEdit" Key="{C6DE859A-CFF4-482D-A4C7-57C6C6669432}">
+																								<Image FileName="801638968" Left="202" Top="503" Right="1349" Bottom="571" />
+																								<Properties>
+																									<Property Name="ClassName">
+																										<Value Value="TPanel" />
+																									</Property>
+																									<Property Name="ObjectIdentifier">
+																										<Value Value="pnlEdit" />
+																									</Property>
+																								</Properties>
+																								<Children>
+																									<Child Name="cmbModType" Key="{CD2A92E8-85C3-47DD-BDEB-7D2AD63A521A}">
+																										<Image FileName="801638968" Left="318" Top="511" Right="478" Bottom="532" />
+																										<TypeInfo Item0="{F41F0A12-2279-4B54-B239-B9A8F2766870}" />
+																										<Properties>
+																											<Property Name="ClassName">
+																												<Value Value="TComboBox" />
+																											</Property>
+																											<Property Name="ObjectIdentifier">
+																												<Value Value="cmbModType" />
+																											</Property>
+																										</Properties>
+																									</Child>
+																								</Children>
+																							</Child>
+																						</Children>
+																					</Child>
+																				</Children>
+																			</Child>
+																		</Children>
+																	</Child>
+																</Children>
+															</Child>
+														</Children>
+													</Child>
+												</Children>
+											</Child>
+											<Child Name="FrmGWEditWindow_1" Key="{7A7A9E58-9DF3-4031-9479-F8551A8C79E9}">
+												<Image FileName="-1530738344" Left="225" Top="153" Right="1248" Bottom="470" />
+												<TypeInfo Item0="{6CD3F60D-71F0-4A68-916A-A47915C0B757}" />
+												<Properties>
+													<Property Name="ClassName">
+														<Value Value="TFrmGWE" />
+													</Property>
+													<Property Name="ObjectIdentifier">
+														<Value Value="FrmGWEditWindow_1" />
+													</Property>
+												</Properties>
+											</Child>
+											<Child Name="FrmTerminal" Key="{63366397-B7DF-4C66-943F-A4B102F13087}">
+												<Image FileName="141124429" Left="251" Top="179" Right="568" Bottom="496" />
+												<TypeInfo Item0="{6CD3F60D-71F0-4A68-916A-A47915C0B757}" />
+												<Properties>
+													<Property Name="ClassName">
+														<Value Value="TFrmTerminal" />
+													</Property>
+													<Property Name="ObjectIdentifier">
+														<Value Value="FrmTerminal" />
+													</Property>
+												</Properties>
+												<Children>
+													<Child Name="pnlClient" Key="{4E5940BB-4D60-4B89-B6B6-D56644046801}">
+														<Image FileName="-601752723" Left="197" Top="149" Right="1354" Bottom="576" />
+														<Properties>
+															<Property Name="ClassName">
+																<Value Value="TPanel" />
+															</Property>
+															<Property Name="ObjectIdentifier">
+																<Value Value="pnlClient" />
+															</Property>
+														</Properties>
+														<Children>
+															<Child Name="RearTerminal" Key="{7B01C7D7-798C-41A3-96B8-60AE324A4658}">
+																<Image FileName="-601752723" Left="197" Top="149" Right="1354" Bottom="576" />
+																<Properties>
+																	<Property Name="ClassName">
+																		<Value Value="TUivTermEditor" />
+																	</Property>
+																	<Property Name="ObjectIdentifier">
+																		<Value Value="RearTerminal" />
+																	</Property>
+																</Properties>
+																<Children>
+																	<Child Name="ThePageControl" Key="{B86C4DCD-1A69-4FFF-96A2-386167ACFF7B}">
+																		<Image FileName="-601752723" Left="197" Top="149" Right="1354" Bottom="576" />
+																		<Properties>
+																			<Property Name="ClassName">
+																				<Value Value="TPageControl" />
+																			</Property>
+																			<Property Name="ObjectIdentifier">
+																				<Value Value="ThePageControl" />
+																			</Property>
+																		</Properties>
+																		<Children>
+																			<Child Name="tabDiagram" Key="{32182626-3121-4D4E-9C60-18B22F017632}">
+																				<Image FileName="-601752723" Left="201" Top="175" Right="1350" Bottom="572" />
+																				<Properties>
+																					<Property Name="ClassName">
+																						<Value Value="TTabSheet" />
+																					</Property>
+																					<Property Name="ObjectIdentifier">
+																						<Value Value="tabDiagram" />
+																					</Property>
+																				</Properties>
+																				<Children>
+																					<Child Name="TPanel" Key="{CFFBF489-6DAF-4FCC-9A23-208E0D5CF7F7}">
+																						<Image FileName="-601752723" Left="201" Top="175" Right="1350" Bottom="572" />
+																						<Properties>
+																							<Property Name="WndClass">
+																								<Value Value="TPanel" />
+																							</Property>
+																						</Properties>
+																						<Children>
+																							<Child Name="RearTerminal" Key="{DCDF0F06-6A0E-4D41-B45D-5D8934A850F6}">
+																								<Image FileName="-601752723" Left="202" Top="176" Right="1349" Bottom="505" />
+																								<TypeInfo Item0="{1170BAE1-F8FE-40A7-A9ED-3AB44DAA39CA}" />
+																								<Properties>
+																									<Property Name="ClassName">
+																										<Value Value="TUivTermDiag" />
+																									</Property>
+																									<Property Name="ObjectIdentifier">
+																										<Value Value="RearTerminal" />
+																									</Property>
+																								</Properties>
+																							</Child>
+																							<Child Name="pnlEdit" Key="{A28ECC06-E909-4EB5-99DD-E073775F19EC}">
+																								<Image FileName="785054187" Left="202" Top="503" Right="1349" Bottom="571" />
+																								<Properties>
+																									<Property Name="ClassName">
+																										<Value Value="TPanel" />
+																									</Property>
+																									<Property Name="ObjectIdentifier">
+																										<Value Value="pnlEdit" />
+																									</Property>
+																								</Properties>
+																								<Children>
+																									<Child Name="cmbModType" Key="{050A39D8-2E4D-43BC-BD9D-EADF1BAA9D05}">
+																										<Image FileName="785054187" Left="318" Top="511" Right="478" Bottom="532" />
+																										<TypeInfo Item0="{F41F0A12-2279-4B54-B239-B9A8F2766870}" />
+																										<Properties>
+																											<Property Name="ClassName">
+																												<Value Value="TComboBox" />
+																											</Property>
+																											<Property Name="ObjectIdentifier">
+																												<Value Value="cmbModType" />
+																											</Property>
+																										</Properties>
+																									</Child>
+																									<Child Name="lblModule" Key="{63B393FC-D524-4DB4-B996-9DD71E177933}">
+																										<Image FileName="-339395449" Left="212" Top="513" Right="312" Bottom="530" />
+																										<TypeInfo Item0="{0AE66F13-0E69-4752-A5AA-F11764872B64}" />
+																										<Properties>
+																											<Property Name="ClassName">
+																												<Value Value="TLabel" />
+																											</Property>
+																											<Property Name="ObjectIdentifier">
+																												<Value Value="lblModule" />
+																											</Property>
+																										</Properties>
+																									</Child>
+																									<Child Name="lblPrimary" Key="{1943729C-4C5B-4A35-9567-4574822C0955}">
+																										<Image FileName="1725957580" Left="212" Top="543" Right="286" Bottom="560" />
+																										<TypeInfo Item0="{0AE66F13-0E69-4752-A5AA-F11764872B64}" />
+																										<Properties>
+																											<Property Name="ClassName">
+																												<Value Value="TLabel" />
+																											</Property>
+																											<Property Name="ObjectIdentifier">
+																												<Value Value="lblPrimary" />
+																											</Property>
+																										</Properties>
+																									</Child>
+																									<Child Name="cmbPrimary" Key="{60E638EA-F75E-4199-A661-68F415590269}">
+																										<Image FileName="-2030860183" Left="311" Top="541" Right="435" Bottom="562" />
+																										<TypeInfo Item0="{F41F0A12-2279-4B54-B239-B9A8F2766870}" />
+																										<Properties>
+																											<Property Name="ClassName">
+																												<Value Value="TComboBox" />
+																											</Property>
+																											<Property Name="ObjectIdentifier">
+																												<Value Value="cmbPrimary" />
+																											</Property>
+																										</Properties>
+																									</Child>
+																								</Children>
+																							</Child>
+																						</Children>
+																					</Child>
+																				</Children>
+																			</Child>
+																		</Children>
+																	</Child>
+																</Children>
+															</Child>
+														</Children>
+													</Child>
+												</Children>
+											</Child>
+											<Child Name="FrmTerminal_11" Key="{786DF437-E024-4C18-BC87-085DDEDC1DC5}">
+												<Image FileName="-411779428" Left="189" Top="94" Right="1362" Bottom="584" />
+												<Properties>
+													<Property Name="ClassName">
+														<Value Value="TFrmTerminal" />
+													</Property>
+													<Property Name="ObjectIdentifier">
+														<Value Value="FrmTerminal_11" />
+													</Property>
+												</Properties>
+												<Children>
+													<Child Name="pnlClient" Key="{3490816E-26C5-4C63-93E3-71789C98CEA2}">
+														<Image FileName="-411779428" Left="197" Top="149" Right="1354" Bottom="576" />
+														<Properties>
+															<Property Name="ClassName">
+																<Value Value="TPanel" />
+															</Property>
+															<Property Name="ObjectIdentifier">
+																<Value Value="pnlClient" />
+															</Property>
+														</Properties>
+														<Children>
+															<Child Name="RearTerminal" Key="{87D52C23-C1FB-4B22-ACC5-528C59DFF5F0}">
+																<Image FileName="-411779428" Left="197" Top="149" Right="1354" Bottom="576" />
+																<Properties>
+																	<Property Name="ClassName">
+																		<Value Value="TUivTermEditor" />
+																	</Property>
+																	<Property Name="ObjectIdentifier">
+																		<Value Value="RearTerminal" />
+																	</Property>
+																</Properties>
+																<Children>
+																	<Child Name="ThePageControl" Key="{842A42A9-2F24-4A13-9015-17C29F2947B9}">
+																		<Image FileName="-411779428" Left="197" Top="149" Right="1354" Bottom="576" />
+																		<Properties>
+																			<Property Name="ClassName">
+																				<Value Value="TPageControl" />
+																			</Property>
+																			<Property Name="ObjectIdentifier">
+																				<Value Value="ThePageControl" />
+																			</Property>
+																		</Properties>
+																		<Children>
+																			<Child Name="tabDiagram" Key="{741C527F-2725-493B-97E7-8ADDB385895B}">
+																				<Image FileName="-411779428" Left="201" Top="175" Right="1350" Bottom="572" />
+																				<Properties>
+																					<Property Name="ClassName">
+																						<Value Value="TTabSheet" />
+																					</Property>
+																					<Property Name="ObjectIdentifier">
+																						<Value Value="tabDiagram" />
+																					</Property>
+																				</Properties>
+																				<Children>
+																					<Child Name="TPanel" Key="{D5C45388-B235-48B7-8FCB-FF454A5CFF94}">
+																						<Image FileName="-411779428" Left="201" Top="175" Right="1350" Bottom="572" />
+																						<Properties>
+																							<Property Name="WndClass">
+																								<Value Value="TPanel" />
+																							</Property>
+																						</Properties>
+																						<Children>
+																							<Child Name="RearTerminal" Key="{46A3C473-0EC5-442A-A0C6-7AFE9E2DD949}">
+																								<Image FileName="1041903406" Left="202" Top="176" Right="1349" Bottom="505" />
+																								<TypeInfo Item0="{1170BAE1-F8FE-40A7-A9ED-3AB44DAA39CA}" />
+																								<Properties>
+																									<Property Name="ClassName">
+																										<Value Value="TUivTermDiag" />
+																									</Property>
+																									<Property Name="ObjectIdentifier">
+																										<Value Value="RearTerminal" />
+																									</Property>
+																								</Properties>
+																							</Child>
+																							<Child Name="pnlEdit" Key="{29257058-3E10-4633-B554-C0F21F057A14}">
+																								<Image FileName="-411779428" Left="202" Top="503" Right="1349" Bottom="571" />
+																								<Properties>
+																									<Property Name="ClassName">
+																										<Value Value="TPanel" />
+																									</Property>
+																									<Property Name="ObjectIdentifier">
+																										<Value Value="pnlEdit" />
+																									</Property>
+																								</Properties>
+																								<Children>
+																									<Child Name="cmbModType" Key="{440E2D6B-7154-4749-B5AC-0ABB43C8C27D}">
+																										<Image FileName="-411779428" Left="318" Top="511" Right="478" Bottom="532" />
+																										<TypeInfo Item0="{F41F0A12-2279-4B54-B239-B9A8F2766870}" />
+																										<Properties>
+																											<Property Name="ClassName">
+																												<Value Value="TComboBox" />
+																											</Property>
+																											<Property Name="ObjectIdentifier">
+																												<Value Value="cmbModType" />
+																											</Property>
+																										</Properties>
+																									</Child>
+																								</Children>
+																							</Child>
+																						</Children>
+																					</Child>
+																				</Children>
+																			</Child>
+																		</Children>
+																	</Child>
+																</Children>
+															</Child>
+														</Children>
+													</Child>
+												</Children>
+											</Child>
+											<Child Name="FrmTerminal_5" Key="{20CE6912-8126-41CE-82F6-5A5428190F3C}">
+												<Image FileName="-504390648" Left="189" Top="94" Right="1362" Bottom="584" />
+												<Properties>
+													<Property Name="ClassName">
+														<Value Value="TFrmTerminal" />
+													</Property>
+													<Property Name="ObjectIdentifier">
+														<Value Value="FrmTerminal_5" />
+													</Property>
+												</Properties>
+												<Children>
+													<Child Name="pnlClient" Key="{9E821678-15E6-44F1-A018-500992FA3459}">
+														<Image FileName="-504390648" Left="197" Top="149" Right="1354" Bottom="576" />
+														<Properties>
+															<Property Name="ClassName">
+																<Value Value="TPanel" />
+															</Property>
+															<Property Name="ObjectIdentifier">
+																<Value Value="pnlClient" />
+															</Property>
+														</Properties>
+														<Children>
+															<Child Name="RearTerminal" Key="{1BA704C9-9033-4371-A2E7-0D5DD551DA99}">
+																<Image FileName="-504390648" Left="197" Top="149" Right="1354" Bottom="576" />
+																<Properties>
+																	<Property Name="ClassName">
+																		<Value Value="TUivTermEditor" />
+																	</Property>
+																	<Property Name="ObjectIdentifier">
+																		<Value Value="RearTerminal" />
+																	</Property>
+																</Properties>
+																<Children>
+																	<Child Name="ThePageControl" Key="{BC9F8318-16EC-4334-91D4-9F2E69B86705}">
+																		<Image FileName="-504390648" Left="197" Top="149" Right="1354" Bottom="576" />
+																		<Properties>
+																			<Property Name="ClassName">
+																				<Value Value="TPageControl" />
+																			</Property>
+																			<Property Name="ObjectIdentifier">
+																				<Value Value="ThePageControl" />
+																			</Property>
+																		</Properties>
+																		<Children>
+																			<Child Name="tabDiagram" Key="{16EE1211-7EE3-4F81-B193-CC6C35CAA91F}">
+																				<Image FileName="-504390648" Left="201" Top="175" Right="1350" Bottom="572" />
+																				<Properties>
+																					<Property Name="ClassName">
+																						<Value Value="TTabSheet" />
+																					</Property>
+																					<Property Name="ObjectIdentifier">
+																						<Value Value="tabDiagram" />
+																					</Property>
+																				</Properties>
+																				<Children>
+																					<Child Name="TPanel" Key="{EA435075-EE0A-4163-A489-00DEFB5AD906}">
+																						<Image FileName="-504390648" Left="201" Top="175" Right="1350" Bottom="572" />
+																						<Properties>
+																							<Property Name="WndClass">
+																								<Value Value="TPanel" />
+																							</Property>
+																						</Properties>
+																						<Children>
+																							<Child Name="RearTerminal" Key="{880A57B2-3B57-4634-8B8D-B83FC97D0AA8}">
+																								<Image FileName="-504390648" Left="202" Top="176" Right="1349" Bottom="505" />
+																								<TypeInfo Item0="{1170BAE1-F8FE-40A7-A9ED-3AB44DAA39CA}" />
+																								<Properties>
+																									<Property Name="ClassName">
+																										<Value Value="TUivTermDiag" />
+																									</Property>
+																									<Property Name="ObjectIdentifier">
+																										<Value Value="RearTerminal" />
+																									</Property>
+																								</Properties>
+																							</Child>
+																							<Child Name="pnlEdit" Key="{8C6873E2-B3B0-4001-A4FB-67F62CA8EFDB}">
+																								<Image FileName="458037104" Left="202" Top="503" Right="1349" Bottom="571" />
+																								<Properties>
+																									<Property Name="ClassName">
+																										<Value Value="TPanel" />
+																									</Property>
+																									<Property Name="ObjectIdentifier">
+																										<Value Value="pnlEdit" />
+																									</Property>
+																								</Properties>
+																								<Children>
+																									<Child Name="cmbModType" Key="{63CD3A8B-860D-4D43-A4C4-4FC48237EEAA}">
+																										<Image FileName="458037104" Left="318" Top="511" Right="478" Bottom="532" />
+																										<TypeInfo Item0="{F41F0A12-2279-4B54-B239-B9A8F2766870}" />
+																										<Properties>
+																											<Property Name="ClassName">
+																												<Value Value="TComboBox" />
+																											</Property>
+																											<Property Name="ObjectIdentifier">
+																												<Value Value="cmbModType" />
+																											</Property>
+																										</Properties>
+																									</Child>
+																								</Children>
+																							</Child>
+																						</Children>
+																					</Child>
+																				</Children>
+																			</Child>
+																		</Children>
+																	</Child>
+																</Children>
+															</Child>
+														</Children>
+													</Child>
+												</Children>
+											</Child>
+											<Child Name="FrmTerminal_8" Key="{2C5B3818-6900-4582-8767-F1B5524CBEA2}">
+												<Image FileName="509172040" Left="189" Top="94" Right="1362" Bottom="584" />
+												<Properties>
+													<Property Name="ClassName">
+														<Value Value="TFrmTerminal" />
+													</Property>
+													<Property Name="ObjectIdentifier">
+														<Value Value="FrmTerminal_8" />
+													</Property>
+												</Properties>
+												<Children>
+													<Child Name="pnlClient" Key="{2FAE813B-5754-469D-8967-3454393BBAE6}">
+														<Image FileName="509172040" Left="197" Top="149" Right="1354" Bottom="576" />
+														<Properties>
+															<Property Name="ClassName">
+																<Value Value="TPanel" />
+															</Property>
+															<Property Name="ObjectIdentifier">
+																<Value Value="pnlClient" />
+															</Property>
+														</Properties>
+														<Children>
+															<Child Name="RearTerminal" Key="{28ED2C13-EFDF-442F-9AE6-5796B1EC4799}">
+																<Image FileName="509172040" Left="197" Top="149" Right="1354" Bottom="576" />
+																<Properties>
+																	<Property Name="ClassName">
+																		<Value Value="TUivTermEditor" />
+																	</Property>
+																	<Property Name="ObjectIdentifier">
+																		<Value Value="RearTerminal" />
+																	</Property>
+																</Properties>
+																<Children>
+																	<Child Name="ThePageControl" Key="{B81706C8-F25E-4E27-BED8-C542E693710A}">
+																		<Image FileName="509172040" Left="197" Top="149" Right="1354" Bottom="576" />
+																		<Properties>
+																			<Property Name="ClassName">
+																				<Value Value="TPageControl" />
+																			</Property>
+																			<Property Name="ObjectIdentifier">
+																				<Value Value="ThePageControl" />
+																			</Property>
+																		</Properties>
+																		<Children>
+																			<Child Name="tabDiagram" Key="{F65DA83D-0279-4841-B2AB-F686DFD62A49}">
+																				<Image FileName="509172040" Left="201" Top="175" Right="1350" Bottom="572" />
+																				<Properties>
+																					<Property Name="ClassName">
+																						<Value Value="TTabSheet" />
+																					</Property>
+																					<Property Name="ObjectIdentifier">
+																						<Value Value="tabDiagram" />
+																					</Property>
+																				</Properties>
+																				<Children>
+																					<Child Name="TPanel" Key="{AB6FBC62-2763-48AE-85F6-4C5DEB2D137E}">
+																						<Image FileName="509172040" Left="201" Top="175" Right="1350" Bottom="572" />
+																						<Properties>
+																							<Property Name="WndClass">
+																								<Value Value="TPanel" />
+																							</Property>
+																						</Properties>
+																						<Children>
+																							<Child Name="RearTerminal" Key="{6E86EAB7-8F5A-41CA-AD09-7D5E283D839F}">
+																								<Image FileName="509172040" Left="202" Top="176" Right="1349" Bottom="505" />
+																								<TypeInfo Item0="{1170BAE1-F8FE-40A7-A9ED-3AB44DAA39CA}" />
+																								<Properties>
+																									<Property Name="ClassName">
+																										<Value Value="TUivTermDiag" />
+																									</Property>
+																									<Property Name="ObjectIdentifier">
+																										<Value Value="RearTerminal" />
+																									</Property>
+																								</Properties>
+																							</Child>
+																							<Child Name="pnlEdit" Key="{B13357AD-7151-48B0-868C-20672D2FACFC}">
+																								<Image FileName="-1616211495" Left="202" Top="503" Right="1349" Bottom="571" />
+																								<Properties>
+																									<Property Name="ClassName">
+																										<Value Value="TPanel" />
+																									</Property>
+																									<Property Name="ObjectIdentifier">
+																										<Value Value="pnlEdit" />
+																									</Property>
+																								</Properties>
+																								<Children>
+																									<Child Name="cmbModType" Key="{AF4B1008-9DA8-429C-A271-38525391C120}">
+																										<Image FileName="-1616211495" Left="318" Top="511" Right="478" Bottom="532" />
+																										<TypeInfo Item0="{F41F0A12-2279-4B54-B239-B9A8F2766870}" />
+																										<Properties>
+																											<Property Name="ClassName">
+																												<Value Value="TComboBox" />
+																											</Property>
+																											<Property Name="ObjectIdentifier">
+																												<Value Value="cmbModType" />
+																											</Property>
+																										</Properties>
+																									</Child>
+																								</Children>
+																							</Child>
+																						</Children>
+																					</Child>
+																				</Children>
+																			</Child>
+																		</Children>
+																	</Child>
+																</Children>
+															</Child>
+														</Children>
+													</Child>
+												</Children>
+											</Child>
+											<Child Name="FrmParamList_2" Key="{F6B08C97-9679-4AF0-AC87-253F5CD87BD0}">
+												<Image FileName="2146391144" Left="189" Top="94" Right="1362" Bottom="584" />
+												<Properties>
+													<Property Name="ClassName">
+														<Value Value="TFrmFuncParamList" />
+													</Property>
+													<Property Name="ObjectIdentifier">
+														<Value Value="FrmParamList_2" />
+													</Property>
+												</Properties>
+												<Children>
+													<Child Name="TheTabControl" Key="{9CEE7F7E-B661-48E2-805C-2BCC9EAA972C}">
+														<Image FileName="2146391144" Left="197" Top="148" Right="1354" Bottom="576" />
+														<Properties>
+															<Property Name="ClassName">
+																<Value Value="TUivTabControl" />
+															</Property>
+															<Property Name="ObjectIdentifier">
+																<Value Value="TheTabControl" />
+															</Property>
+														</Properties>
+														<Children>
+															<Child Name="List" Key="{18E1B1B1-2D96-41F1-86CB-46D4704C40D3}">
+																<Image FileName="2146391144" Left="201" Top="154" Right="1350" Bottom="551" />
+																<TypeInfo Item0="{1170BAE1-F8FE-40A7-A9ED-3AB44DAA39CA}" />
+																<Properties>
+																	<Property Name="ClassName">
+																		<Value Value="TUivOPCItemGrid" />
+																	</Property>
+																	<Property Name="ObjectIdentifier">
+																		<Value Value="List" />
+																	</Property>
+																</Properties>
+															</Child>
+														</Children>
+													</Child>
+												</Children>
+											</Child>
+											<Child Name="FrmTerminal_3" Key="{9F68FF87-CAEA-4224-9852-95769AB53BAB}">
+												<Image FileName="-1433709751" Left="189" Top="94" Right="1362" Bottom="584" />
+												<Properties>
+													<Property Name="ClassName">
+														<Value Value="TFrmTerminal" />
+													</Property>
+													<Property Name="ObjectIdentifier">
+														<Value Value="FrmTerminal_3" />
+													</Property>
+												</Properties>
+												<Children>
+													<Child Name="pnlClient" Key="{319E0A9C-DD4B-4B16-B4E7-5F0F615C1062}">
+														<Image FileName="-1433709751" Left="197" Top="149" Right="1354" Bottom="576" />
+														<Properties>
+															<Property Name="ClassName">
+																<Value Value="TPanel" />
+															</Property>
+															<Property Name="ObjectIdentifier">
+																<Value Value="pnlClient" />
+															</Property>
+														</Properties>
+														<Children>
+															<Child Name="RearTerminal" Key="{CA7DA0E9-5FDC-4801-AA16-173D0F50FEE8}">
+																<Image FileName="-1433709751" Left="197" Top="149" Right="1354" Bottom="576" />
+																<Properties>
+																	<Property Name="ClassName">
+																		<Value Value="TUivTermEditor" />
+																	</Property>
+																	<Property Name="ObjectIdentifier">
+																		<Value Value="RearTerminal" />
+																	</Property>
+																</Properties>
+																<Children>
+																	<Child Name="ThePageControl" Key="{F93C5FA8-D40A-41C0-B9BC-10EAE9ABF417}">
+																		<Image FileName="-1433709751" Left="197" Top="149" Right="1354" Bottom="576" />
+																		<Properties>
+																			<Property Name="ClassName">
+																				<Value Value="TPageControl" />
+																			</Property>
+																			<Property Name="ObjectIdentifier">
+																				<Value Value="ThePageControl" />
+																			</Property>
+																		</Properties>
+																		<Children>
+																			<Child Name="tabDiagram" Key="{519C3DA3-C4E6-4B13-9B74-EE89FC7AD0B7}">
+																				<Image FileName="-1433709751" Left="201" Top="175" Right="1350" Bottom="572" />
+																				<Properties>
+																					<Property Name="ClassName">
+																						<Value Value="TTabSheet" />
+																					</Property>
+																					<Property Name="ObjectIdentifier">
+																						<Value Value="tabDiagram" />
+																					</Property>
+																				</Properties>
+																				<Children>
+																					<Child Name="TPanel" Key="{D9CF9D39-9875-4AF7-9242-F3C53C979BDD}">
+																						<Image FileName="-1433709751" Left="201" Top="175" Right="1350" Bottom="572" />
+																						<Properties>
+																							<Property Name="WndClass">
+																								<Value Value="TPanel" />
+																							</Property>
+																						</Properties>
+																						<Children>
+																							<Child Name="pnlEdit" Key="{CF63CE06-0D05-4465-A71C-F828499566A5}">
+																								<Image FileName="-1433709751" Left="202" Top="503" Right="1349" Bottom="571" />
+																								<Properties>
+																									<Property Name="ClassName">
+																										<Value Value="TPanel" />
+																									</Property>
+																									<Property Name="ObjectIdentifier">
+																										<Value Value="pnlEdit" />
+																									</Property>
+																								</Properties>
+																								<Children>
+																									<Child Name="cmbModType" Key="{E6277599-EFAA-49B2-BA31-1900AF82FCC4}">
+																										<Image FileName="-1433709751" Left="318" Top="511" Right="478" Bottom="532" />
+																										<TypeInfo Item0="{F41F0A12-2279-4B54-B239-B9A8F2766870}" />
+																										<Properties>
+																											<Property Name="ClassName">
+																												<Value Value="TComboBox" />
+																											</Property>
+																											<Property Name="ObjectIdentifier">
+																												<Value Value="cmbModType" />
+																											</Property>
+																										</Properties>
+																									</Child>
+																								</Children>
+																							</Child>
+																						</Children>
+																					</Child>
+																				</Children>
+																			</Child>
+																		</Children>
+																	</Child>
+																</Children>
+															</Child>
+														</Children>
+													</Child>
+												</Children>
+											</Child>
+											<Child Name="FrmPanelView" Key="{9D6581D0-98E7-4FD5-A914-EE045023FF31}">
+												<Image FileName="-764871514" Left="189" Top="94" Right="1362" Bottom="584" />
+												<Properties>
+													<Property Name="ClassName">
+														<Value Value="TFrmPanelView" />
+													</Property>
+													<Property Name="ObjectIdentifier">
+														<Value Value="FrmPanelView" />
+													</Property>
+												</Properties>
+												<Children>
+													<Child Name="DevicePanel" Key="{8A794F95-D7A4-48C3-B7E3-1C82CE907F1C}">
+														<Image FileName="-764871514" Left="207" Top="160" Right="1344" Bottom="566" />
+														<Properties>
+															<Property Name="ClassName">
+																<Value Value="TUivSeries2000Panel" />
+															</Property>
+															<Property Name="ObjectIdentifier">
+																<Value Value="DevicePanel" />
+															</Property>
+														</Properties>
+														<Children>
+															<Child Name="TBitBtn" Key="{FA28F1FA-356F-44B1-A552-816798DF5847}">
+																<Image FileName="-764871514" Left="668" Top="453" Right="725" Bottom="495" />
+																<TypeInfo Item0="{7D502C81-7BFC-4185-9164-BCF4C405F9C6}" />
+																<Properties>
+																	<Property Name="WndClass">
+																		<Value Value="TBitBtn" />
+																	</Property>
+																	<Property Name="WndCaption">
+																		<Value Value="" />
+																	</Property>
+																	<Property Name="Index">
+																		<Value Value="8" Type="0" />
+																	</Property>
+																</Properties>
+															</Child>
+															<Child Name="TBitBtn2" Key="{398B205E-3D5D-4BC4-AD25-394B7B93D5B7}">
+																<Image FileName="-156573008" Left="735" Top="456" Right="794" Bottom="500" />
+																<TypeInfo Item0="{7D502C81-7BFC-4185-9164-BCF4C405F9C6}" />
+																<Properties>
+																	<Property Name="WndClass">
+																		<Value Value="TBitBtn" />
+																	</Property>
+																	<Property Name="WndCaption">
+																		<Value Value="" />
+																	</Property>
+																	<Property Name="Index">
+																		<Value Value="5" Type="0" />
+																	</Property>
+																</Properties>
+															</Child>
+															<Child Name="TBitBtn3" Key="{CFD9E127-8785-4714-844D-7478E1C6FBD2}">
+																<Image FileName="1729411286" Left="619" Top="502" Right="676" Bottom="544" />
+																<TypeInfo Item0="{7D502C81-7BFC-4185-9164-BCF4C405F9C6}" />
+																<Properties>
+																	<Property Name="WndClass">
+																		<Value Value="TBitBtn" />
+																	</Property>
+																	<Property Name="WndCaption">
+																		<Value Value="" />
+																	</Property>
+																	<Property Name="Index">
+																		<Value Value="4" Type="0" />
+																	</Property>
+																</Properties>
+															</Child>
+															<Child Name="TBitBtn4" Key="{DD91D427-F935-4DFE-91DB-B173645802A5}">
+																<Image FileName="-687646918" Left="702" Top="502" Right="759" Bottom="544" />
+																<TypeInfo Item0="{7D502C81-7BFC-4185-9164-BCF4C405F9C6}" />
+																<Properties>
+																	<Property Name="WndClass">
+																		<Value Value="TBitBtn" />
+																	</Property>
+																	<Property Name="WndCaption">
+																		<Value Value="" />
+																	</Property>
+																	<Property Name="Index">
+																		<Value Value="3" Type="0" />
+																	</Property>
+																</Properties>
+															</Child>
+															<Child Name="TBitBtn5" Key="{45F3488C-17D0-4DB0-903F-327875983EDE}">
+																<Image FileName="1270854917" Left="779" Top="502" Right="836" Bottom="544" />
+																<TypeInfo Item0="{7D502C81-7BFC-4185-9164-BCF4C405F9C6}" />
+																<Properties>
+																	<Property Name="WndClass">
+																		<Value Value="TBitBtn" />
+																	</Property>
+																	<Property Name="WndCaption">
+																		<Value Value="" />
+																	</Property>
+																	<Property Name="Index">
+																		<Value Value="2" Type="0" />
+																	</Property>
+																</Properties>
+															</Child>
+															<Child Name="TBitBtn6" Key="{B95982C3-18F5-46BB-B5F8-7B7283CC6E45}">
+																<Image FileName="1889551463" Left="857" Top="502" Right="914" Bottom="544" />
+																<TypeInfo Item0="{7D502C81-7BFC-4185-9164-BCF4C405F9C6}" />
+																<Properties>
+																	<Property Name="WndClass">
+																		<Value Value="TBitBtn" />
+																	</Property>
+																	<Property Name="WndCaption">
+																		<Value Value="" />
+																	</Property>
+																	<Property Name="Index">
+																		<Value Value="1" Type="0" />
+																	</Property>
+																</Properties>
+															</Child>
+														</Children>
+													</Child>
+												</Children>
+											</Child>
+											<Child Name="FrmPanelView_4" Key="{AD643F59-99B7-46D3-AD74-71FCB484D5F2}">
+												<Image FileName="-1229863506" Left="269" Top="197" Right="602" Bottom="530" />
+												<TypeInfo Item0="{6CD3F60D-71F0-4A68-916A-A47915C0B757}" />
+												<Properties>
+													<Property Name="ClassName">
+														<Value Value="TFrmPanelView" />
+													</Property>
+													<Property Name="ObjectIdentifier">
+														<Value Value="FrmPanelView_4" />
+													</Property>
+												</Properties>
+											</Child>
+											<Child Name="FrmParamList2" Key="{F0F6600F-4CB7-401B-B2E6-5FE5367A7E5C}">
+												<Image FileName="-1969762240" Left="181" Top="86" Right="1374" Bottom="592" />
+												<Properties>
+													<Property Name="ClassName">
+														<Value Value="TFrmFuncParamList" />
+													</Property>
+													<Property Name="ObjectIdentifier">
+														<Value Value="FrmParamList" />
+													</Property>
+												</Properties>
+												<Children>
+													<Child Name="TheTabControl" Key="{68B5E461-5B76-4761-B59E-A22A3DC2CF05}">
+														<Image FileName="-1969762240" Left="189" Top="140" Right="1366" Bottom="584" />
+														<Properties>
+															<Property Name="ClassName">
+																<Value Value="TUivTabControl" />
+															</Property>
+															<Property Name="ObjectIdentifier">
+																<Value Value="TheTabControl" />
+															</Property>
+														</Properties>
+														<Children>
+															<Child Name="List" Key="{FD54F7E3-B9B4-4672-A0E0-AB902CA4160E}">
+																<Image FileName="-1969762240" Left="193" Top="146" Right="1362" Bottom="559" />
+																<TypeInfo Item0="{1170BAE1-F8FE-40A7-A9ED-3AB44DAA39CA}" />
+																<Properties>
+																	<Property Name="ClassName">
+																		<Value Value="TUivOPCItemGrid" />
+																	</Property>
+																	<Property Name="ObjectIdentifier">
+																		<Value Value="List" />
+																	</Property>
+																</Properties>
+															</Child>
+														</Children>
+													</Child>
+												</Children>
+											</Child>
+											<Child Name="FrmPanelView_1" Key="{4658BAE8-18FD-46D0-8B09-0B4C4C03EA8C}">
+												<Image FileName="-434300941" Left="189" Top="94" Right="1382" Bottom="600" />
+												<TypeInfo Item0="{B97085AA-3BE2-444A-AA9C-94E15E2B5F23}" />
+												<Properties>
+													<Property Name="ClassName">
+														<Value Value="TFrmPanelView" />
+													</Property>
+													<Property Name="ObjectIdentifier">
+														<Value Value="FrmPanelView_1" />
+													</Property>
+												</Properties>
+												<Children>
+													<Child Name="DevicePanel" Key="{91B7A898-C13A-4328-AD46-291101C44AF7}">
+														<Image FileName="-434300941" Left="207" Top="160" Right="1364" Bottom="582" />
+														<TypeInfo Item0="{BA008573-068C-4A5D-B847-DDA9577D9345}" />
+														<Properties>
+															<Property Name="ClassName">
+																<Value Value="TUivSeries2000Panel" />
+															</Property>
+															<Property Name="ObjectIdentifier">
+																<Value Value="DevicePanel" />
+															</Property>
+														</Properties>
+													</Child>
+												</Children>
+											</Child>
+										</Children>
+									</Child>
+									<Child Name="BtnAccessLevel" Key="{DE8582A7-1F4F-49A4-B5C4-96A99B2CBA8E}">
+										<Image FileName="-607243060" Left="533" Top="53" Right="596" Bottom="99" />
+										<TypeInfo Item0="{0AE66F13-0E69-4752-A5AA-F11764872B64}" />
+										<Properties>
+											<Property Name="ClassName">
+												<Value Value="TToolButton" />
+											</Property>
+											<Property Name="ObjectIdentifier">
+												<Value Value="BtnAccessLevel" />
+											</Property>
+										</Properties>
+									</Child>
+									<Child Name="PnlDevBrowse" Key="{3021BC1A-FF36-470C-A33D-672DE0FA8FE7}">
+										<Image FileName="316672074" Left="8" Top="125" Right="193" Bottom="576" />
+										<Properties>
+											<Property Name="ClassName">
+												<Value Value="TPanel" />
+											</Property>
+											<Property Name="ObjectIdentifier">
+												<Value Value="PnlDevBrowse" />
+											</Property>
+										</Properties>
+										<Children>
+											<Child Name="PnlDevBrowseMain" Key="{8D42E105-6E9C-4A8E-9992-60F6044F195E}">
+												<Image FileName="316672074" Left="10" Top="127" Right="191" Bottom="574" />
+												<Properties>
+													<Property Name="ClassName">
+														<Value Value="TPanel" />
+													</Property>
+													<Property Name="ObjectIdentifier">
+														<Value Value="PnlDevBrowseMain" />
+													</Property>
+												</Properties>
+												<Children>
+													<Child Name="PgeDevBrowse" Key="{25E0174B-F132-447F-AD2B-44E598DC0107}">
+														<Image FileName="316672074" Left="14" Top="348" Right="187" Bottom="570" />
+														<Properties>
+															<Property Name="ClassName">
+																<Value Value="TPageControl" />
+															</Property>
+															<Property Name="ObjectIdentifier">
+																<Value Value="PgeDevBrowse" />
+															</Property>
+														</Properties>
+														<Children>
+															<Child Name="TabBrowse" Key="{796C9FED-9300-40E5-A221-7933B2595662}">
+																<Image FileName="316672074" Left="18" Top="373" Right="183" Bottom="566" />
+																<Properties>
+																	<Property Name="ClassName">
+																		<Value Value="TTabSheet" />
+																	</Property>
+																	<Property Name="ObjectIdentifier">
+																		<Value Value="TabBrowse" />
+																	</Property>
+																</Properties>
+																<Children>
+																	<Child Name="TvwTags" Key="{34CFF3DF-FBA3-42C8-83A5-E13BFBDBC72F}">
+																		<Image FileName="316672074" Left="18" Top="373" Right="183" Bottom="566" />
+																		<TypeInfo Item0="{3349F000-15BC-4E1F-814F-879F6659D5D2}" />
+																		<Properties>
+																			<Property Name="ClassName">
+																				<Value Value="TUivOPCTreeView" />
+																			</Property>
+																			<Property Name="ObjectIdentifier">
+																				<Value Value="TvwTags" />
+																			</Property>
+																		</Properties>
+																	</Child>
+																</Children>
+															</Child>
+														</Children>
+													</Child>
+													<Child Name="LvwDevices" Key="{096A47EC-6D28-408F-A554-FC86F6B4E72C}">
+														<Image FileName="283176796" Left="14" Top="131" Right="187" Bottom="344" />
+														<TypeInfo Item0="{7A1312A3-2D26-4273-94D1-FB445A44FDB9}" />
+														<Properties>
+															<Property Name="ClassName">
+																<Value Value="TListView" />
+															</Property>
+															<Property Name="ObjectIdentifier">
+																<Value Value="LvwDevices" />
+															</Property>
+														</Properties>
+													</Child>
+												</Children>
+											</Child>
+										</Children>
+									</Child>
+									<Child Name="BtnTerminalWiring" Key="{23B9B3AE-E9F3-49F3-9D53-2EBD67C8BC70}">
+										<Image FileName="-45576092" Left="467" Top="101" Right="581" Bottom="123" />
+										<TypeInfo Item0="{0AE66F13-0E69-4752-A5AA-F11764872B64}" />
+										<Properties>
+											<Property Name="ClassName">
+												<Value Value="TToolButton" />
+											</Property>
+											<Property Name="ObjectIdentifier">
+												<Value Value="BtnTerminalWiring" />
+											</Property>
+										</Properties>
+									</Child>
+									<Child Name="BtnNewClone" Key="{80F2FFAD-77D1-407B-904A-891784F3AE0B}">
+										<Image FileName="-1502471221" Left="12" Top="53" Right="75" Bottom="99" />
+										<TypeInfo Item0="{0AE66F13-0E69-4752-A5AA-F11764872B64}" />
+										<Properties>
+											<Property Name="ClassName">
+												<Value Value="TToolButton" />
+											</Property>
+											<Property Name="ObjectIdentifier">
+												<Value Value="BtnNewClone" />
+											</Property>
+										</Properties>
+									</Child>
+									<Child Name="BtnPanelView" Key="{E45DDFDD-1873-4483-BDE4-DD9AFBD3044B}">
+										<Image FileName="-211540890" Left="369" Top="101" Right="467" Bottom="123" />
+										<TypeInfo Item0="{0AE66F13-0E69-4752-A5AA-F11764872B64}" />
+										<Properties>
+											<Property Name="ClassName">
+												<Value Value="TToolButton" />
+											</Property>
+											<Property Name="ObjectIdentifier">
+												<Value Value="BtnPanelView" />
+											</Property>
+										</Properties>
+									</Child>
+									<Child Name="BtnParamExplorer" Key="{1AD01902-0FE3-46CE-8CBB-A289C4757CA2}">
+										<Image FileName="1808833075" Left="124" Top="93" Right="255" Bottom="115" />
+										<TypeInfo Item0="{0AE66F13-0E69-4752-A5AA-F11764872B64}" />
+										<Properties>
+											<Property Name="ClassName">
+												<Value Value="TToolButton" />
+											</Property>
+											<Property Name="ObjectIdentifier">
+												<Value Value="BtnParamExplorer" />
+											</Property>
+										</Properties>
+									</Child>
+									<Child Name="PnlPanelViews" Key="{CC2BBE2B-E884-4E1C-9DD1-6D904B13735B}">
+										<Image FileName="-1380458321" Left="8" Top="580" Right="1354" Bottom="701" />
+										<Properties>
+											<Property Name="ClassName">
+												<Value Value="TPanel" />
+											</Property>
+											<Property Name="ObjectIdentifier">
+												<Value Value="PnlPanelViews" />
+											</Property>
+										</Properties>
+										<Children>
+											<Child Name="ScrollBox" Key="{EC06DEBA-D265-4863-8388-2A66A91CBD35}">
+												<Image FileName="-1380458321" Left="30" Top="582" Right="1352" Bottom="699" />
+												<TypeInfo Item0="{1170BAE1-F8FE-40A7-A9ED-3AB44DAA39CA}" />
+												<Properties>
+													<Property Name="ClassName">
+														<Value Value="TScrollBox" />
+													</Property>
+													<Property Name="ObjectIdentifier">
+														<Value Value="ScrollBox" />
+													</Property>
+												</Properties>
+											</Child>
+										</Children>
+									</Child>
+								</Children>
+							</Child>
+							<Child Name="TtsDropDownForm" Key="{36E8E078-38C4-4392-BD79-154F27FF9FBD}">
+								<Image FileName="-1601215371" Left="0" Top="0" Right="129" Bottom="114" />
+								<TypeInfo Item0="{9DDEFE08-5CA7-4EAF-9F73-2E908144A81F}" />
+								<Properties>
+									<Property Name="WndClass">
+										<Value Value="TtsDropDownForm" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="TtsComboGrid" Key="{E3503CAC-0EAE-44F2-A0D9-C5D54E848EBD}">
+										<Image FileName="-1601215371" Left="0" Top="0" Right="129" Bottom="114" />
+										<TypeInfo Item0="{9DDEFE08-5CA7-4EAF-9F73-2E908144A81F}" />
+										<Properties>
+											<Property Name="WndClass">
+												<Value Value="TtsComboGrid" />
+											</Property>
+										</Properties>
+									</Child>
+								</Children>
+							</Child>
+							<Child Name="TMessageForm" Key="{FF5D5AC6-8B4C-4163-AFFB-A0D7A42E93F8}">
+								<Image FileName="-1785927963" Left="0" Top="0" Right="530" Bottom="149" />
+								<TypeInfo Item0="{100C19F7-51ED-4206-93B7-8163C8DCE32A}" />
+								<Properties>
+									<Property Name="WndClass">
+										<Value Value="TMessageForm" />
+									</Property>
+									<Property Name="WndCaption">
+										<Value Value="Warning" />
+									</Property>
+								</Properties>
+							</Child>
+							<Child Name="DlgWriteValue" Key="{EC22DE2A-555B-4357-ADE8-4F1C972F0601}">
+								<Image FileName="1351775512" Left="0" Top="0" Right="311" Bottom="151" />
+								<Properties>
+									<Property Name="ClassName">
+										<Value Value="TDlgWriteValue" />
+									</Property>
+									<Property Name="ObjectIdentifier">
+										<Value Value="DlgWriteValue" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="CmbValue" Key="{056A70C3-CA2F-4070-816C-C2602D1C8D5A}">
+										<Image FileName="1351775512" Left="103" Top="62" Right="240" Bottom="83" />
+										<TypeInfo Item0="{F41F0A12-2279-4B54-B239-B9A8F2766870}" />
+										<Properties>
+											<Property Name="ClassName">
+												<Value Value="TComboBox" />
+											</Property>
+											<Property Name="ObjectIdentifier">
+												<Value Value="CmbValue" />
+											</Property>
+										</Properties>
+										<Children>
+											<Child Name="Edit" Key="{176BBB84-1AD0-46EB-82EA-0EE0D4CD4B97}">
+												<Image FileName="1207858708" Left="106" Top="65" Right="220" Bottom="80" />
+												<TypeInfo Item0="{C88FBA66-9755-4279-A051-C19E4A5B4E4E}" />
+												<Properties>
+													<Property Name="WndClass">
+														<Value Value="Edit" />
+													</Property>
+												</Properties>
+											</Child>
+										</Children>
+									</Child>
+									<Child Name="PnlButtons" Key="{7C09D4A0-5AFA-4648-B114-DE5F4B3389DF}">
+										<Image FileName="-1158636019" Left="3" Top="87" Right="308" Bottom="129" />
+										<Properties>
+											<Property Name="ClassName">
+												<Value Value="TPanel" />
+											</Property>
+											<Property Name="ObjectIdentifier">
+												<Value Value="PnlButtons" />
+											</Property>
+										</Properties>
+										<Children>
+											<Child Name="BtnApply" Key="{DFF91B3B-481B-485F-B537-07E3CEAC6F4E}">
+												<Image FileName="-1158636019" Left="201" Top="95" Right="274" Bottom="120" />
+												<TypeInfo Item0="{7D502C81-7BFC-4185-9164-BCF4C405F9C6}" />
+												<Properties>
+													<Property Name="ClassName">
+														<Value Value="TButton" />
+													</Property>
+													<Property Name="ObjectIdentifier">
+														<Value Value="BtnApply" />
+													</Property>
+												</Properties>
+											</Child>
+											<Child Name="BtnOK" Key="{58DC635F-CC45-4482-A165-05181E5B587E}">
+												<Image FileName="-2144857316" Left="41" Top="95" Right="114" Bottom="120" />
+												<TypeInfo Item0="{7D502C81-7BFC-4185-9164-BCF4C405F9C6}" />
+												<Properties>
+													<Property Name="ClassName">
+														<Value Value="TButton" />
+													</Property>
+													<Property Name="ObjectIdentifier">
+														<Value Value="BtnOK" />
+													</Property>
+												</Properties>
+											</Child>
+											<Child Name="BtnCancel" Key="{E574C7F2-3514-4561-AD4A-792E02B4AA48}">
+												<Image FileName="-1341222643" Left="121" Top="95" Right="194" Bottom="120" />
+												<TypeInfo Item0="{7D502C81-7BFC-4185-9164-BCF4C405F9C6}" />
+												<Properties>
+													<Property Name="ClassName">
+														<Value Value="TButton" />
+													</Property>
+													<Property Name="ObjectIdentifier">
+														<Value Value="BtnCancel" />
+													</Property>
+												</Properties>
+											</Child>
+										</Children>
+									</Child>
+									<Child Name="EdtValue" Key="{949C7962-6E56-4EC9-9A11-E0E4E4678087}">
+										<Image FileName="1358581594" Left="103" Top="62" Right="240" Bottom="83" />
+										<TypeInfo Item0="{BD205772-9870-4CCE-9E4E-D0A1C8B88F00}" />
+										<Properties>
+											<Property Name="ClassName">
+												<Value Value="TEdit" />
+											</Property>
+											<Property Name="ObjectIdentifier">
+												<Value Value="EdtValue" />
+											</Property>
+										</Properties>
+									</Child>
+									<Child Name="LblCurrVal" Key="{98448B1D-7A36-4B3A-88C1-9D6230BCEC58}">
+										<Image FileName="-700923740" Left="103" Top="40" Right="124" Bottom="53" />
+										<TypeInfo Item0="{F4D58FE4-0F4C-4EEA-884D-235C180574DD}" />
+										<Properties>
+											<Property Name="ClassName">
+												<Value Value="TLabel" />
+											</Property>
+											<Property Name="ObjectIdentifier">
+												<Value Value="LblCurrVal" />
+											</Property>
+										</Properties>
+									</Child>
+									<Child Name="LblValue" Key="{E845F519-D05F-4E59-A75A-9F3E419A09DF}">
+										<Image FileName="-1905929285" Left="15" Top="66" Right="67" Bottom="79" />
+										<TypeInfo Item0="{0AE66F13-0E69-4752-A5AA-F11764872B64}" />
+										<Properties>
+											<Property Name="ClassName">
+												<Value Value="TLabel" />
+											</Property>
+											<Property Name="ObjectIdentifier">
+												<Value Value="LblValue" />
+											</Property>
+										</Properties>
+									</Child>
+								</Children>
+							</Child>
+							<Child Name="DlgTemplateFile" Key="{AB04ED42-35F4-40BF-9EDD-E11B100CF5C4}">
+								<Image FileName="1568087359" Left="0" Top="0" Right="409" Bottom="406" />
+								<Properties>
+									<Property Name="ClassName">
+										<Value Value="TDlgTemplateFile" />
+									</Property>
+									<Property Name="ObjectIdentifier">
+										<Value Value="DlgTemplateFile" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="TabControl" Key="{5A8499FA-3F10-4B85-BA80-9709A56FDC1A}">
+										<Image FileName="1568087359" Left="16" Top="55" Right="393" Bottom="354" />
+										<TypeInfo Item0="{F8E698F5-58B6-43FD-ABCA-8876307D7DB9}" />
+										<Properties>
+											<Property Name="ClassName">
+												<Value Value="TTabControl" />
+											</Property>
+											<Property Name="ObjectIdentifier">
+												<Value Value="TabControl" />
+											</Property>
+										</Properties>
+										<Children>
+											<Child Name="LbxTemplate" Key="{C5A4E75F-5664-482C-B21A-3027905F9ECC}">
+												<Image FileName="1568087359" Left="20" Top="115" Right="389" Bottom="350" />
+												<TypeInfo Item0="{7DCDA80A-E9D8-4C11-9FFA-2FDF33D2EB54}" />
+												<Properties>
+													<Property Name="ClassName">
+														<Value Value="TListBox" />
+													</Property>
+													<Property Name="ObjectIdentifier">
+														<Value Value="LbxTemplate" />
+													</Property>
+												</Properties>
+											</Child>
+										</Children>
+									</Child>
+									<Child Name="OKBtn" Key="{794CFEA5-D3E6-44D6-B06A-1F21F41CFE89}">
+										<Image FileName="-696201751" Left="238" Top="364" Right="313" Bottom="389" />
+										<TypeInfo Item0="{7D502C81-7BFC-4185-9164-BCF4C405F9C6}" />
+										<Properties>
+											<Property Name="ClassName">
+												<Value Value="TButton" />
+											</Property>
+											<Property Name="ObjectIdentifier">
+												<Value Value="OKBtn" />
+											</Property>
+										</Properties>
+									</Child>
+									<Child Name="CancelBtn" Key="{E9CFDC32-35BD-4950-8C3B-0895554FAFC7}">
+										<Image FileName="-1279288193" Left="318" Top="364" Right="393" Bottom="389" />
+										<TypeInfo Item0="{7D502C81-7BFC-4185-9164-BCF4C405F9C6}" />
+										<Properties>
+											<Property Name="ClassName">
+												<Value Value="TButton" />
+											</Property>
+											<Property Name="ObjectIdentifier">
+												<Value Value="CancelBtn" />
+											</Property>
+										</Properties>
+									</Child>
+								</Children>
+							</Child>
+							<Child Name="dlgWarning" Key="{1F4ED630-9E4B-47D7-9FA2-EEF638C8210E}">
+								<Image FileName="-1371973816" Left="0" Top="0" Right="366" Bottom="122" />
+								<Properties>
+									<Property Name="WndClass">
+										<Value Value="#32770" />
+									</Property>
+									<Property Name="WndCaption">
+										<Value Value="Warning" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="Warning" Key="{B0592EED-4897-4A34-8D0B-9D702AC7EB76}">
+										<Image FileName="-1371973816" Left="3" Top="26" Right="363" Bottom="119" />
+										<Properties>
+											<Property Name="FrameworkId">
+												<Value Value="DirectUI" />
+											</Property>
+											<Property Name="ClassName">
+												<Value Value="TaskDialog" />
+											</Property>
+											<Property Name="LocalizedControlType">
+												<Value Value="pane" />
+											</Property>
+											<Property Name="ObjectIdentifier">
+												<Value Value="Warning" />
+											</Property>
+											<Property Name="ObjectGroupIndex">
+												<Value Value="1" Type="0" />
+											</Property>
+										</Properties>
+										<Children>
+											<Child Name="CtrlNotifySink" Key="{6DC3F3D1-B9BD-4EBA-8D94-985B8860CA10}">
+												<Image FileName="-1371973816" Left="285" Top="87" Right="353" Bottom="110" />
+												<Properties>
+													<Property Name="WndClass">
+														<Value Value="CtrlNotifySink" />
+													</Property>
+													<Property Name="WndCaption">
+														<Value Value="" />
+													</Property>
+													<Property Name="Index">
+														<Value Value="7" Type="0" />
+													</Property>
+												</Properties>
+												<Children>
+													<Child Name="btnOK" Key="{FECA6338-69E7-438A-91FE-9DF962201F5C}">
+														<Image FileName="-1371973816" Left="285" Top="87" Right="353" Bottom="110" />
+														<TypeInfo Item0="{7D502C81-7BFC-4185-9164-BCF4C405F9C6}" />
+														<Properties>
+															<Property Name="WndClass">
+																<Value Value="Button" />
+															</Property>
+															<Property Name="WndCaption">
+																<Value Value="OK" />
+															</Property>
+														</Properties>
+													</Child>
+												</Children>
+											</Child>
+										</Children>
+									</Child>
+								</Children>
+							</Child>
+							<Child Name="Item" Key="{93B539E7-4607-4CC2-9163-8C181DF1FFF4}">
+								<Image FileName="1008710677" Left="0" Top="0" Right="265" Bottom="332" />
+								<TypeInfo Item0="{2C47C92E-52DF-440C-9DD0-4F9CD1D2FFA3}" />
+								<Properties>
+									<Property Name="WndClass">
+										<Value Value="#32768" />
+									</Property>
+								</Properties>
+							</Child>
+							<Child Name="wndiTools" Key="{ED9B5D20-4E50-4121-B926-C4458DEA0C8B}">
+								<TypeInfo Item0="{100C19F7-51ED-4206-93B7-8163C8DCE32A}" />
+								<Properties>
+									<Property Name="WndClass">
+										<Value Value="TApplication" />
+									</Property>
+									<Property Name="WndCaption">
+										<Value Value="iTools" />
+									</Property>
+								</Properties>
+							</Child>
+							<Child Name="DlgServerCommand" Key="{6A89225C-C809-4813-A4E5-F4118F0AA1DC}">
+								<Image FileName="-1391043730" Left="0" Top="0" Right="489" Bottom="372" />
+								<TypeInfo Item0="{100C19F7-51ED-4206-93B7-8163C8DCE32A}" />
+								<Properties>
+									<Property Name="ClassName">
+										<Value Value="TDlgServerCommand" />
+									</Property>
+									<Property Name="ObjectIdentifier">
+										<Value Value="DlgServerCommand" />
+									</Property>
+								</Properties>
+							</Child>
+							<Child Name="TMessageForm2" Key="{2FD4D6EE-905A-4DE2-B5A3-FE352F80D487}">
+								<Image FileName="121717053" Left="0" Top="0" Right="342" Bottom="149" />
+								<Properties>
+									<Property Name="WndClass">
+										<Value Value="TMessageForm" />
+									</Property>
+									<Property Name="WndCaption">
+										<Value Value="Confirm" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="No" Key="{AC648DBF-2E51-4605-9482-37921C1FD1E0}">
+										<Image FileName="121717053" Left="133" Top="105" Right="208" Bottom="131" />
+										<TypeInfo Item0="{7D502C81-7BFC-4185-9164-BCF4C405F9C6}" />
+										<Properties>
+											<Property Name="ClassName">
+												<Value Value="TButton" />
+											</Property>
+											<Property Name="ObjectIdentifier">
+												<Value Value="No" />
+											</Property>
+										</Properties>
+									</Child>
+								</Children>
+							</Child>
+						</Children>
+					</Child>
+					<Child Name="explorer" Key="{BD52C460-4A51-4AC8-BC7A-2909FC1FCA16}">
+						<Properties>
+							<Property Name="ProcessName">
+								<Value Value="explorer" />
+							</Property>
+						</Properties>
+						<Children>
+							<Child Name="wndShell_TrayWnd" Key="{E4255177-52DB-4164-8353-6AD2C2DF96DA}">
+								<Image FileName="389779525" Left="0" Top="0" Right="1366" Bottom="40" />
+								<Properties>
+									<Property Name="WndClass">
+										<Value Value="Shell_TrayWnd" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="ReBarWindow32" Key="{F556071E-00A4-421E-8A35-E6BDA43DA4B5}">
+										<Image FileName="389779525" Left="486" Top="0" Right="1135" Bottom="40" />
+										<Properties>
+											<Property Name="WndClass">
+												<Value Value="ReBarWindow32" />
+											</Property>
+										</Properties>
+										<Children>
+											<Child Name="MSTaskSwWClass" Key="{1CFD1EE2-2F17-4739-8B74-19C2DB8A4661}">
+												<Image FileName="389779525" Left="488" Top="0" Right="1135" Bottom="40" />
+												<Properties>
+													<Property Name="WndClass">
+														<Value Value="MSTaskSwWClass" />
+													</Property>
+													<Property Name="WndCaption">
+														<Value Value="Running applications" />
+													</Property>
+												</Properties>
+												<Children>
+													<Child Name="MSTaskListWClass" Key="{199A0C02-D087-4871-972B-258AE908FEBD}">
+														<Image FileName="389779525" Left="488" Top="0" Right="1135" Bottom="40" />
+														<TypeInfo Item0="{1170BAE1-F8FE-40A7-A9ED-3AB44DAA39CA}" />
+														<Properties>
+															<Property Name="WndClass">
+																<Value Value="MSTaskListWClass" />
+															</Property>
+															<Property Name="WndCaption">
+																<Value Value="Running applications" />
+															</Property>
+														</Properties>
+													</Child>
+												</Children>
+											</Child>
+										</Children>
+									</Child>
+									<Child Name="TrayDummySearchControl" Key="{CE1F3375-1FBA-4458-892D-C12C9C20577C}">
+										<Image FileName="-710378546" Left="48" Top="0" Right="392" Bottom="40" />
+										<Properties>
+											<Property Name="WndClass">
+												<Value Value="TrayDummySearchControl" />
+											</Property>
+										</Properties>
+										<Children>
+											<Child Name="btn" Key="{6BE796E6-B8DE-4EE1-B070-80B385BC53D6}">
+												<Image FileName="-710378546" Left="48" Top="0" Right="392" Bottom="40" />
+												<TypeInfo Item0="{7D502C81-7BFC-4185-9164-BCF4C405F9C6}" />
+												<Properties>
+													<Property Name="WndClass">
+														<Value Value="Button" />
+													</Property>
+													<Property Name="WndCaption">
+														<Value Value="Type here to search" />
+													</Property>
+												</Properties>
+											</Child>
+										</Children>
+									</Child>
+								</Children>
+							</Child>
+							<Child Name="dlgTestDataProperties" Key="{7277011A-A45A-441F-AAD6-30A8B390C93C}">
+								<TypeInfo Item0="{100C19F7-51ED-4206-93B7-8163C8DCE32A}" />
+								<Properties>
+									<Property Name="WndClass">
+										<Value Value="#32770" />
+									</Property>
+									<Property Name="WndCaption">
+										<Value Value="TestData Properties" />
+									</Property>
+								</Properties>
+							</Child>
+							<Child Name="dlg" Key="{6E5357C3-6B5C-4F55-8612-5B5B59B33FCE}">
+								<Image FileName="77685461" Left="0" Top="0" Right="411" Bottom="234" />
+								<Properties>
+									<Property Name="WndClass">
+										<Value Value="#32770" />
+									</Property>
+									<Property Name="WndCaption">
+										<Value Value="Power surge on the USB port" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="btnClose" Key="{1ACFE7AE-9549-452A-9AFE-D255492C00B1}">
+										<Image FileName="77685461" Left="317" Top="194" Right="392" Bottom="217" />
+										<TypeInfo Item0="{7D502C81-7BFC-4185-9164-BCF4C405F9C6}" />
+										<Properties>
+											<Property Name="WndClass">
+												<Value Value="Button" />
+											</Property>
+											<Property Name="WndCaption">
+												<Value Value="&amp;Close" />
+											</Property>
+										</Properties>
+									</Child>
+								</Children>
+							</Child>
+							<Child Name="wndProgman" Key="{EDB50A1F-36E9-4C5E-AC90-1AD660C7DB0E}">
+								<Image FileName="1088171637" Left="0" Top="0" Right="1366" Bottom="768" />
+								<Properties>
+									<Property Name="WndClass">
+										<Value Value="Progman" />
+									</Property>
+									<Property Name="WndCaption">
+										<Value Value="Program Manager" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="SHELLDLL_DefView" Key="{5B196EE1-CD38-460B-9160-C578B054B3A2}" ExtendedFind="True">
+										<Image FileName="1088171637" Left="0" Top="0" Right="1366" Bottom="768" />
+										<Properties>
+											<Property Name="WndClass">
+												<Value Value="SHELLDLL_DefView" />
+											</Property>
+										</Properties>
+										<Children>
+											<Child Name="FolderView" Key="{F3830CF1-7216-4949-ACB4-2E5A0C981C24}">
+												<Image FileName="1088171637" Left="0" Top="0" Right="1366" Bottom="768" />
+												<TypeInfo Item0="{7A1312A3-2D26-4273-94D1-FB445A44FDB9}" />
+												<Properties>
+													<Property Name="WndClass">
+														<Value Value="SysListView32" />
+													</Property>
+													<Property Name="WndCaption">
+														<Value Value="FolderView" />
+													</Property>
+												</Properties>
+											</Child>
+										</Children>
+									</Child>
+								</Children>
+							</Child>
+							<Child Name="wndCabinetWClass" Key="{858AC0C1-F962-40E0-9400-2A1CB612AAD5}">
+								<TypeInfo Item0="{100C19F7-51ED-4206-93B7-8163C8DCE32A}" />
+								<Properties>
+									<Property Name="WndClass">
+										<Value Value="CabinetWClass" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="ShellTabWindowClass" Key="{963488A2-0A21-4F4F-82B0-F5FFF9663A57}">
+										<Image FileName="-1014450807" Left="0" Top="181" Right="1366" Bottom="728" />
+										<Properties>
+											<Property Name="WndClass">
+												<Value Value="ShellTabWindowClass" />
+											</Property>
+										</Properties>
+										<Children>
+											<Child Name="DUIViewWndClassName" Key="{C7D268EC-A008-4276-9E9B-C981478E5DC6}">
+												<Image FileName="-1014450807" Left="0" Top="181" Right="1366" Bottom="728" />
+												<Properties>
+													<Property Name="WndClass">
+														<Value Value="DUIViewWndClassName" />
+													</Property>
+												</Properties>
+												<Children>
+													<Child Name="Explorer_Pane" Key="{9541EC54-806B-498E-B11D-DFFBD5FE4614}">
+														<Image FileName="-1014450807" Left="0" Top="181" Right="1366" Bottom="728" />
+														<Properties>
+															<Property Name="FrameworkId">
+																<Value Value="DirectUI" />
+															</Property>
+															<Property Name="ClassName">
+																<Value Value="HWNDView" />
+															</Property>
+															<Property Name="LocalizedControlType">
+																<Value Value="pane" />
+															</Property>
+															<Property Name="ObjectIdentifier">
+																<Value Value="Explorer_Pane" />
+															</Property>
+															<Property Name="ObjectGroupIndex">
+																<Value Value="1" Type="0" />
+															</Property>
+														</Properties>
+														<Children>
+															<Child Name="CtrlNotifySink" Key="{715E84B7-5E72-431F-B11C-F8EA3D6396A7}">
+																<Image FileName="-1014450807" Left="241" Top="181" Right="1366" Bottom="705" />
+																<Properties>
+																	<Property Name="WndClass">
+																		<Value Value="CtrlNotifySink" />
+																	</Property>
+																	<Property Name="WndCaption">
+																		<Value Value="" />
+																	</Property>
+																	<Property Name="Index">
+																		<Value Value="5" Type="0" />
+																	</Property>
+																</Properties>
+																<Children>
+																	<Child Name="ShellView" Key="{5B93131F-5287-4BD5-9A19-4769FC5ABA26}" ExtendedFind="True">
+																		<Image FileName="-1014450807" Left="241" Top="181" Right="1366" Bottom="705" />
+																		<Properties>
+																			<Property Name="WndClass">
+																				<Value Value="SHELLDLL_DefView" />
+																			</Property>
+																			<Property Name="WndCaption">
+																				<Value Value="ShellView" />
+																			</Property>
+																		</Properties>
+																		<Children>
+																			<Child Name="Items_View" Key="{34724204-6B66-44AF-97D9-5913585137B5}">
+																				<Image FileName="-1014450807" Left="241" Top="181" Right="1366" Bottom="705" />
+																				<Properties>
+																					<Property Name="FrameworkId">
+																						<Value Value="DirectUI" />
+																					</Property>
+																					<Property Name="ClassName">
+																						<Value Value="UIItemsView" />
+																					</Property>
+																					<Property Name="LocalizedControlType">
+																						<Value Value="list" />
+																					</Property>
+																					<Property Name="ObjectIdentifier">
+																						<Value Value="Items_View" />
+																					</Property>
+																					<Property Name="ObjectGroupIndex">
+																						<Value Value="1" Type="0" />
+																					</Property>
+																				</Properties>
+																				<Children>
+																					<Child Name="Program_Files_x86_" Key="{41BB1B4E-9901-4EE8-959B-3D6D4AD2C6AF}">
+																						<Image FileName="-1014450807" Left="255" Top="422" Right="853" Bottom="444" />
+																						<Properties>
+																							<Property Name="FrameworkId">
+																								<Value Value="DirectUI" />
+																							</Property>
+																							<Property Name="ClassName">
+																								<Value Value="UIItem" />
+																							</Property>
+																							<Property Name="LocalizedControlType">
+																								<Value Value="list item" />
+																							</Property>
+																							<Property Name="ObjectIdentifier">
+																								<Value Value="Program_Files_x86_" />
+																							</Property>
+																						</Properties>
+																						<Children>
+																							<Child Name="Name" Key="{9F4FEBE5-5AF3-4542-BCCB-A908766D5027}">
+																								<Image FileName="-1014450807" Left="277" Top="422" Right="513" Bottom="444" />
+																								<TypeInfo Item0="{0AE66F13-0E69-4752-A5AA-F11764872B64}" />
+																								<Properties>
+																									<Property Name="FrameworkId">
+																										<Value Value="DirectUI" />
+																									</Property>
+																									<Property Name="ClassName">
+																										<Value Value="UIProperty" />
+																									</Property>
+																									<Property Name="LocalizedControlType">
+																										<Value Value="edit" />
+																									</Property>
+																									<Property Name="ObjectIdentifier">
+																										<Value Value="Name" />
+																									</Property>
+																								</Properties>
+																							</Child>
+																						</Children>
+																					</Child>
+																					<Child Name="Eurotherm" Key="{96AD8EBF-1938-47C9-AA88-D2EB2EF491B3}">
+																						<Image FileName="-2054723306" Left="255" Top="296" Right="853" Bottom="318" />
+																						<Properties>
+																							<Property Name="FrameworkId">
+																								<Value Value="DirectUI" />
+																							</Property>
+																							<Property Name="ClassName">
+																								<Value Value="UIItem" />
+																							</Property>
+																							<Property Name="LocalizedControlType">
+																								<Value Value="list item" />
+																							</Property>
+																							<Property Name="ObjectIdentifier">
+																								<Value Value="Eurotherm" />
+																							</Property>
+																						</Properties>
+																						<Children>
+																							<Child Name="Name" Key="{ADAA3691-83EA-4620-AE26-2D821C301A06}">
+																								<Image FileName="-2054723306" Left="277" Top="296" Right="513" Bottom="318" />
+																								<TypeInfo Item0="{0AE66F13-0E69-4752-A5AA-F11764872B64}" />
+																								<Properties>
+																									<Property Name="FrameworkId">
+																										<Value Value="DirectUI" />
+																									</Property>
+																									<Property Name="ClassName">
+																										<Value Value="UIProperty" />
+																									</Property>
+																									<Property Name="LocalizedControlType">
+																										<Value Value="edit" />
+																									</Property>
+																									<Property Name="ObjectIdentifier">
+																										<Value Value="Name" />
+																									</Property>
+																								</Properties>
+																							</Child>
+																						</Children>
+																					</Child>
+																					<Child Name="iTools" Key="{0F6C1E95-87BC-430C-80F4-DC8FEAABE1C3}">
+																						<Image FileName="1507788432" Left="255" Top="187" Right="360" Bottom="303" />
+																						<TypeInfo Item0="{0AE66F13-0E69-4752-A5AA-F11764872B64}" />
+																						<Properties>
+																							<Property Name="FrameworkId">
+																								<Value Value="DirectUI" />
+																							</Property>
+																							<Property Name="ClassName">
+																								<Value Value="UIItem" />
+																							</Property>
+																							<Property Name="LocalizedControlType">
+																								<Value Value="list item" />
+																							</Property>
+																							<Property Name="ObjectIdentifier">
+																								<Value Value="iTools" />
+																							</Property>
+																						</Properties>
+																					</Child>
+																				</Children>
+																			</Child>
+																		</Children>
+																	</Child>
+																</Children>
+															</Child>
+														</Children>
+													</Child>
+												</Children>
+											</Child>
+										</Children>
+									</Child>
+									<Child Name="WorkerW" Key="{96F5C554-1311-4CF6-9C0C-A1CE1E9BD079}">
+										<Image FileName="580751824" Left="0" Top="139" Right="1366" Bottom="181" />
+										<Properties>
+											<Property Name="WndClass">
+												<Value Value="WorkerW" />
+											</Property>
+										</Properties>
+										<Children>
+											<Child Name="ReBarWindow32" Key="{12D9B543-9A3D-47DC-B88A-20B639686485}">
+												<Image FileName="580751824" Left="0" Top="139" Right="1366" Bottom="181" />
+												<Properties>
+													<Property Name="WndClass">
+														<Value Value="ReBarWindow32" />
+													</Property>
+												</Properties>
+												<Children>
+													<Child Name="UniversalSearchBand" Key="{FE86BCAB-E20B-4FDC-9A75-B0A7BC3041E0}">
+														<Image FileName="580751824" Left="1105" Top="140" Right="1355" Bottom="176" />
+														<Properties>
+															<Property Name="WndClass">
+																<Value Value="UniversalSearchBand" />
+															</Property>
+														</Properties>
+														<Children>
+															<Child Name="SearchEditBox" Key="{0D9C37D5-B0CE-45C6-AF21-10E462867C52}">
+																<Image FileName="580751824" Left="1105" Top="143" Right="1355" Bottom="175" />
+																<TypeInfo Item0="{1170BAE1-F8FE-40A7-A9ED-3AB44DAA39CA}" />
+																<Properties>
+																	<Property Name="WndClass">
+																		<Value Value="ModernSearchBox" />
+																	</Property>
+																	<Property Name="WndCaption">
+																		<Value Value="SearchEditBox" />
+																	</Property>
+																</Properties>
+															</Child>
+														</Children>
+													</Child>
+												</Children>
+											</Child>
+										</Children>
+									</Child>
+								</Children>
+							</Child>
+						</Children>
+					</Child>
+					<Child Name="notepad" Key="{53A2ADA2-6226-4623-A3A3-C913C7050290}">
+						<Properties>
+							<Property Name="ProcessName">
+								<Value Value="notepad" />
+							</Property>
+						</Properties>
+						<Children>
+							<Child Name="wndNotepad" Key="{8E63CE95-10E1-4E3B-ACA1-E61CEF9DDD19}">
+								<Image FileName="-2001861495" Left="0" Top="0" Right="998" Bottom="445" />
+								<TypeInfo Item0="{100C19F7-51ED-4206-93B7-8163C8DCE32A}" />
+								<Properties>
+									<Property Name="WndClass">
+										<Value Value="Notepad" />
+									</Property>
+								</Properties>
+							</Child>
+							<Child Name="dlgNotepad" Key="{4B19D3EF-2E08-40D1-862F-7F186C5CAE78}">
+								<Image FileName="-1310293106" Left="0" Top="0" Right="366" Bottom="141" />
+								<Properties>
+									<Property Name="WndClass">
+										<Value Value="#32770" />
+									</Property>
+									<Property Name="WndCaption">
+										<Value Value="Notepad" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="Notepad" Key="{B3EDDAC1-C4E3-4BD0-8882-6D483575A828}">
+										<Image FileName="-1310293106" Left="8" Top="31" Right="358" Bottom="133" />
+										<Properties>
+											<Property Name="FrameworkId">
+												<Value Value="DirectUI" />
+											</Property>
+											<Property Name="ClassName">
+												<Value Value="TaskDialog" />
+											</Property>
+											<Property Name="LocalizedControlType">
+												<Value Value="pane" />
+											</Property>
+											<Property Name="ObjectIdentifier">
+												<Value Value="Notepad" />
+											</Property>
+											<Property Name="ObjectGroupIndex">
+												<Value Value="1" Type="0" />
+											</Property>
+										</Properties>
+										<Children>
+											<Child Name="CtrlNotifySink" Key="{7D9419BC-606B-442E-8FA7-04071D3DD8A1}">
+												<Image FileName="-1310293106" Left="178" Top="101" Right="270" Bottom="124" />
+												<Properties>
+													<Property Name="WndClass">
+														<Value Value="CtrlNotifySink" />
+													</Property>
+													<Property Name="WndCaption">
+														<Value Value="" />
+													</Property>
+													<Property Name="Index">
+														<Value Value="8" Type="0" />
+													</Property>
+												</Properties>
+												<Children>
+													<Child Name="btnDontSave" Key="{E2D594BA-24FA-4138-A564-EEFDF30E409F}">
+														<Image FileName="-1310293106" Left="178" Top="101" Right="270" Bottom="124" />
+														<TypeInfo Item0="{7D502C81-7BFC-4185-9164-BCF4C405F9C6}" />
+														<Properties>
+															<Property Name="WndClass">
+																<Value Value="Button" />
+															</Property>
+															<Property Name="WndCaption">
+																<Value Value="Do&amp;n&apos;t Save" />
+															</Property>
+														</Properties>
+													</Child>
+												</Children>
+											</Child>
+										</Children>
+									</Child>
+								</Children>
+							</Child>
+						</Children>
+					</Child>
+					<Child Name="cmd" Key="{979C1806-12ED-432A-8860-948F2A4210FB}">
+						<Properties>
+							<Property Name="ProcessName">
+								<Value Value="cmd" />
+							</Property>
+						</Properties>
+						<Children>
+							<Child Name="wndConsoleWindowClass" Key="{6E6C7110-5333-4BCF-8572-4402F6BCA618}">
+								<TypeInfo Item0="{100C19F7-51ED-4206-93B7-8163C8DCE32A}" />
+								<Properties>
+									<Property Name="WndClass">
+										<Value Value="ConsoleWindowClass" />
+									</Property>
+									<Property Name="WndCaption">
+										<Value Value="Administrator: Command Prompt" />
+									</Property>
+								</Properties>
+							</Child>
+						</Children>
+					</Child>
+					<Child Name="browser" Key="{20AF3C44-F5CE-4655-B781-8D2D1A15CD31}">
+						<Properties>
+							<Property Name="ObjectType">
+								<Value Value="Browser" />
+							</Property>
+						</Properties>
+						<Children>
+							<Child Name="BrowserWindow" Key="{4A4BBE5E-D2D6-4D3A-BC3A-BD927BBDD78E}">
+								<Image FileName="-1237221055" Left="0" Top="0" Right="1366" Bottom="728" />
+								<TypeInfo Item0="{100C19F7-51ED-4206-93B7-8163C8DCE32A}" />
+								<Properties>
+									<Property Name="ObjectType">
+										<Value Value="BrowserWindow" />
+									</Property>
+									<Property Name="ObjectIdentifier">
+										<Value Value="0" Type="0" />
+									</Property>
+								</Properties>
+							</Child>
+						</Children>
+					</Child>
+				</Children>
+			</Child>
+		</Children>
+	</Nodes>
+	<LogicalNodes Name="Aliases" Owner="{BE401E45-B2D6-4FBA-931A-C2117D5C51AD}">
+		<Child Name="Orders" Owner="{BD5BC409-6385-403F-9E4F-D785FDA1F482}">
+			<Child Name="MainForm" Owner="{5E47F83C-C915-4EA1-B7F7-04FFD4EBD82C}">
+				<Child Name="OrdersView" Owner="{C362A44C-09EA-455E-A403-744D07779EE6}" />
+			</Child>
+			<Child Name="OrderForm" Owner="{145A4847-CA8C-435C-A115-526D1641F919}">
+				<Child Name="Group" Owner="{F2819792-7B8D-4BD1-AAB5-54A6DEDF1EE1}">
+					<Child Name="label7" Owner="{7C5B6590-A3F5-4F18-B819-24F97C0CCC6E}" />
+					<Child Name="Customer" Owner="{05106DAB-492D-47F7-9D6E-33B30B2D1222}" />
+					<Child Name="label8" Owner="{4AAA539F-1AA5-4641-854E-D82B38207F7B}" />
+					<Child Name="Street" Owner="{DCC8B417-FDC7-42D5-82FD-6B2DD444C82D}" />
+					<Child Name="label9" Owner="{737199CF-0163-47FC-8A72-C61F95501AFD}" />
+					<Child Name="City" Owner="{CB737412-5A99-4A93-A9D4-AFD36B33CFA8}" />
+					<Child Name="label10" Owner="{7655D650-79D2-4AA9-812F-8ADCADF039C4}" />
+					<Child Name="State_" Owner="{BAD85FCC-8442-4770-B8A5-D521AB2AF1C4}" />
+					<Child Name="label11" Owner="{6D47DB2B-7F08-488F-935F-639DF002E327}" />
+					<Child Name="Zip" Owner="{771CB251-8E31-4096-87F1-FC6E99709152}" />
+					<Child Name="label13" Owner="{A7E757DB-E18E-4EF2-82A0-0E75292FFB34}" />
+					<Child Name="CardNo" Owner="{504B599B-F45B-40F0-9E0A-3ABBA1BC0944}" />
+				</Child>
+				<Child Name="ButtonOK" Owner="{4DF8013C-16E1-4953-BA6C-5790C8102F68}" />
+			</Child>
+			<Child Name="dlgSaveAs" Owner="{34197DA6-0F5B-46FD-8EFB-3AB07A2E3B09}">
+				<Child Name="btnCancel" Owner="{3F7AF602-21B6-4AFE-B73B-1E13C87CBD5A}" />
+			</Child>
+			<Child Name="dlgConfirmation" Owner="{968CB4EF-5120-4B71-973A-63D5F0870FBB}">
+				<Child Name="btnNo" Owner="{970592C2-0DF7-47DB-B830-74A0142A33B7}" />
+			</Child>
+		</Child>
+		<Child Name="iTools" Owner="{09D04428-E64E-4A68-A4C7-593440EF4F82}">
+			<Child Name="FrmMain" Owner="{F50D3836-4DE5-4DD6-8334-B55A85182BF2}">
+				<Child Name="MDIClient" Owner="{01B84021-A86A-4EB2-BBF9-2A48C6D56367}">
+					<Child Name="FrmParamList" Owner="{5152E084-9902-4FBD-AE7A-ABB515267B1E}">
+						<Child Name="TheTabControl" Owner="{378A1E79-92F7-42C3-8233-CE56816C433D}">
+							<Child Name="List" Owner="{E4BEA124-357E-4220-B37B-4B5EAE99F615}">
+								<Child Name="TtsGridEditBox" Owner="{4BC00DD0-32FC-411B-8B6C-B7A3C07425AC}" />
+							</Child>
+						</Child>
+					</Child>
+					<Child Name="FrmTerminal_1" Owner="{B7655361-8ACF-4A25-9450-C55EF035BCBA}">
+						<Child Name="pnlClient" Owner="{718A19DA-397A-4C27-AC2E-1CF0319446AE}">
+							<Child Name="RearTerminal" Owner="{CFEDA4DC-EFA6-4ED5-BB0E-EE7A0973E996}">
+								<Child Name="ThePageControl" Owner="{98613568-29C2-4F03-8DFF-18947D848012}">
+									<Child Name="tabDiagram" Owner="{735D66BA-42C6-4130-9A3D-F5C4790AC0E7}">
+										<Child Name="TPanel" Owner="{7C9706E9-F3DC-40DA-AF56-DBD8B8381D7D}">
+											<Child Name="RearTerminal" Owner="{A934B47F-21D5-4FB5-8AAF-8E6F5D1B4F51}" />
+											<Child Name="pnlEdit" Owner="{C6DE859A-CFF4-482D-A4C7-57C6C6669432}">
+												<Child Name="cmbModType" Owner="{CD2A92E8-85C3-47DD-BDEB-7D2AD63A521A}" />
+											</Child>
+										</Child>
+									</Child>
+								</Child>
+							</Child>
+						</Child>
+					</Child>
+					<Child Name="FrmGWEditWindow_1" Owner="{7A7A9E58-9DF3-4031-9479-F8551A8C79E9}" />
+					<Child Name="FrmTerminal" Owner="{63366397-B7DF-4C66-943F-A4B102F13087}">
+						<Child Name="pnlClient" Owner="{4E5940BB-4D60-4B89-B6B6-D56644046801}">
+							<Child Name="RearTerminal" Owner="{7B01C7D7-798C-41A3-96B8-60AE324A4658}">
+								<Child Name="ThePageControl" Owner="{B86C4DCD-1A69-4FFF-96A2-386167ACFF7B}">
+									<Child Name="tabDiagram" Owner="{32182626-3121-4D4E-9C60-18B22F017632}">
+										<Child Name="TPanel" Owner="{CFFBF489-6DAF-4FCC-9A23-208E0D5CF7F7}">
+											<Child Name="RearTerminal" Owner="{DCDF0F06-6A0E-4D41-B45D-5D8934A850F6}" />
+											<Child Name="pnlEdit" Owner="{A28ECC06-E909-4EB5-99DD-E073775F19EC}">
+												<Child Name="cmbModType" Owner="{050A39D8-2E4D-43BC-BD9D-EADF1BAA9D05}" />
+												<Child Name="lblModule" Owner="{63B393FC-D524-4DB4-B996-9DD71E177933}" />
+												<Child Name="lblPrimary" Owner="{1943729C-4C5B-4A35-9567-4574822C0955}" />
+												<Child Name="cmbPrimary" Owner="{60E638EA-F75E-4199-A661-68F415590269}" />
+											</Child>
+										</Child>
+									</Child>
+								</Child>
+							</Child>
+						</Child>
+					</Child>
+					<Child Name="FrmTerminal_11" Owner="{786DF437-E024-4C18-BC87-085DDEDC1DC5}">
+						<Child Name="pnlClient" Owner="{3490816E-26C5-4C63-93E3-71789C98CEA2}">
+							<Child Name="RearTerminal" Owner="{87D52C23-C1FB-4B22-ACC5-528C59DFF5F0}">
+								<Child Name="ThePageControl" Owner="{842A42A9-2F24-4A13-9015-17C29F2947B9}">
+									<Child Name="tabDiagram" Owner="{741C527F-2725-493B-97E7-8ADDB385895B}">
+										<Child Name="TPanel" Owner="{D5C45388-B235-48B7-8FCB-FF454A5CFF94}">
+											<Child Name="RearTerminal" Owner="{46A3C473-0EC5-442A-A0C6-7AFE9E2DD949}" />
+											<Child Name="pnlEdit" Owner="{29257058-3E10-4633-B554-C0F21F057A14}">
+												<Child Name="cmbModType" Owner="{440E2D6B-7154-4749-B5AC-0ABB43C8C27D}" />
+											</Child>
+										</Child>
+									</Child>
+								</Child>
+							</Child>
+						</Child>
+					</Child>
+					<Child Name="FrmTerminal_5" Owner="{20CE6912-8126-41CE-82F6-5A5428190F3C}">
+						<Child Name="pnlClient" Owner="{9E821678-15E6-44F1-A018-500992FA3459}">
+							<Child Name="RearTerminal" Owner="{1BA704C9-9033-4371-A2E7-0D5DD551DA99}">
+								<Child Name="ThePageControl" Owner="{BC9F8318-16EC-4334-91D4-9F2E69B86705}">
+									<Child Name="tabDiagram" Owner="{16EE1211-7EE3-4F81-B193-CC6C35CAA91F}">
+										<Child Name="TPanel" Owner="{EA435075-EE0A-4163-A489-00DEFB5AD906}">
+											<Child Name="RearTerminal" Owner="{880A57B2-3B57-4634-8B8D-B83FC97D0AA8}" />
+											<Child Name="pnlEdit" Owner="{8C6873E2-B3B0-4001-A4FB-67F62CA8EFDB}">
+												<Child Name="cmbModType" Owner="{63CD3A8B-860D-4D43-A4C4-4FC48237EEAA}" />
+											</Child>
+										</Child>
+									</Child>
+								</Child>
+							</Child>
+						</Child>
+					</Child>
+					<Child Name="FrmTerminal_8" Owner="{2C5B3818-6900-4582-8767-F1B5524CBEA2}">
+						<Child Name="pnlClient" Owner="{2FAE813B-5754-469D-8967-3454393BBAE6}">
+							<Child Name="RearTerminal" Owner="{28ED2C13-EFDF-442F-9AE6-5796B1EC4799}">
+								<Child Name="ThePageControl" Owner="{B81706C8-F25E-4E27-BED8-C542E693710A}">
+									<Child Name="tabDiagram" Owner="{F65DA83D-0279-4841-B2AB-F686DFD62A49}">
+										<Child Name="TPanel" Owner="{AB6FBC62-2763-48AE-85F6-4C5DEB2D137E}">
+											<Child Name="RearTerminal" Owner="{6E86EAB7-8F5A-41CA-AD09-7D5E283D839F}" />
+											<Child Name="pnlEdit" Owner="{B13357AD-7151-48B0-868C-20672D2FACFC}">
+												<Child Name="cmbModType" Owner="{AF4B1008-9DA8-429C-A271-38525391C120}" />
+											</Child>
+										</Child>
+									</Child>
+								</Child>
+							</Child>
+						</Child>
+					</Child>
+					<Child Name="FrmParamList_2" Owner="{F6B08C97-9679-4AF0-AC87-253F5CD87BD0}">
+						<Child Name="TheTabControl" Owner="{9CEE7F7E-B661-48E2-805C-2BCC9EAA972C}">
+							<Child Name="List" Owner="{18E1B1B1-2D96-41F1-86CB-46D4704C40D3}" />
+						</Child>
+					</Child>
+					<Child Name="FrmTerminal_3" Owner="{9F68FF87-CAEA-4224-9852-95769AB53BAB}">
+						<Child Name="pnlClient" Owner="{319E0A9C-DD4B-4B16-B4E7-5F0F615C1062}">
+							<Child Name="RearTerminal" Owner="{CA7DA0E9-5FDC-4801-AA16-173D0F50FEE8}">
+								<Child Name="ThePageControl" Owner="{F93C5FA8-D40A-41C0-B9BC-10EAE9ABF417}">
+									<Child Name="tabDiagram" Owner="{519C3DA3-C4E6-4B13-9B74-EE89FC7AD0B7}">
+										<Child Name="TPanel" Owner="{D9CF9D39-9875-4AF7-9242-F3C53C979BDD}">
+											<Child Name="pnlEdit" Owner="{CF63CE06-0D05-4465-A71C-F828499566A5}">
+												<Child Name="cmbModType" Owner="{E6277599-EFAA-49B2-BA31-1900AF82FCC4}" />
+											</Child>
+										</Child>
+									</Child>
+								</Child>
+							</Child>
+						</Child>
+					</Child>
+					<Child Name="FrmPanelView" Owner="{9D6581D0-98E7-4FD5-A914-EE045023FF31}">
+						<Child Name="DevicePanel" Owner="{8A794F95-D7A4-48C3-B7E3-1C82CE907F1C}">
+							<Child Name="TBitBtn" Owner="{FA28F1FA-356F-44B1-A552-816798DF5847}" />
+							<Child Name="TBitBtn2" Owner="{398B205E-3D5D-4BC4-AD25-394B7B93D5B7}" />
+							<Child Name="TBitBtn3" Owner="{CFD9E127-8785-4714-844D-7478E1C6FBD2}" />
+							<Child Name="TBitBtn4" Owner="{DD91D427-F935-4DFE-91DB-B173645802A5}" />
+							<Child Name="TBitBtn5" Owner="{45F3488C-17D0-4DB0-903F-327875983EDE}" />
+							<Child Name="TBitBtn6" Owner="{B95982C3-18F5-46BB-B5F8-7B7283CC6E45}" />
+						</Child>
+					</Child>
+					<Child Name="FrmPanelView_4" Owner="{AD643F59-99B7-46D3-AD74-71FCB484D5F2}" />
+					<Child Name="FrmParamList2" Owner="{F0F6600F-4CB7-401B-B2E6-5FE5367A7E5C}">
+						<Child Name="TheTabControl" Owner="{68B5E461-5B76-4761-B59E-A22A3DC2CF05}">
+							<Child Name="List" Owner="{FD54F7E3-B9B4-4672-A0E0-AB902CA4160E}" />
+						</Child>
+					</Child>
+					<Child Name="FrmPanelView_1" Owner="{4658BAE8-18FD-46D0-8B09-0B4C4C03EA8C}">
+						<Child Name="DevicePanel" Owner="{91B7A898-C13A-4328-AD46-291101C44AF7}" />
+					</Child>
+				</Child>
+				<Child Name="BtnAccessLevel" Owner="{DE8582A7-1F4F-49A4-B5C4-96A99B2CBA8E}" />
+				<Child Name="PnlDevBrowse" Owner="{3021BC1A-FF36-470C-A33D-672DE0FA8FE7}">
+					<Child Name="PnlDevBrowseMain" Owner="{8D42E105-6E9C-4A8E-9992-60F6044F195E}">
+						<Child Name="PgeDevBrowse" Owner="{25E0174B-F132-447F-AD2B-44E598DC0107}">
+							<Child Name="TabBrowse" Owner="{796C9FED-9300-40E5-A221-7933B2595662}">
+								<Child Name="TvwTags" Owner="{34CFF3DF-FBA3-42C8-83A5-E13BFBDBC72F}" />
+							</Child>
+						</Child>
+						<Child Name="LvwDevices" Owner="{096A47EC-6D28-408F-A554-FC86F6B4E72C}" />
+					</Child>
+				</Child>
+				<Child Name="BtnTerminalWiring" Owner="{23B9B3AE-E9F3-49F3-9D53-2EBD67C8BC70}" />
+				<Child Name="BtnNewClone" Owner="{80F2FFAD-77D1-407B-904A-891784F3AE0B}" />
+				<Child Name="BtnPanelView" Owner="{E45DDFDD-1873-4483-BDE4-DD9AFBD3044B}" />
+				<Child Name="BtnParamExplorer" Owner="{1AD01902-0FE3-46CE-8CBB-A289C4757CA2}" />
+				<Child Name="PnlPanelViews" Owner="{CC2BBE2B-E884-4E1C-9DD1-6D904B13735B}">
+					<Child Name="ScrollBox" Owner="{EC06DEBA-D265-4863-8388-2A66A91CBD35}" />
+				</Child>
+			</Child>
+			<Child Name="TtsDropDownForm" Owner="{36E8E078-38C4-4392-BD79-154F27FF9FBD}">
+				<Child Name="TtsComboGrid" Owner="{E3503CAC-0EAE-44F2-A0D9-C5D54E848EBD}" />
+			</Child>
+			<Child Name="TMessageForm" Owner="{FF5D5AC6-8B4C-4163-AFFB-A0D7A42E93F8}" />
+			<Child Name="DlgWriteValue" Owner="{EC22DE2A-555B-4357-ADE8-4F1C972F0601}">
+				<Child Name="CmbValue" Owner="{056A70C3-CA2F-4070-816C-C2602D1C8D5A}">
+					<Child Name="Edit" Owner="{176BBB84-1AD0-46EB-82EA-0EE0D4CD4B97}" />
+				</Child>
+				<Child Name="PnlButtons" Owner="{7C09D4A0-5AFA-4648-B114-DE5F4B3389DF}">
+					<Child Name="BtnApply" Owner="{DFF91B3B-481B-485F-B537-07E3CEAC6F4E}" />
+					<Child Name="BtnOK" Owner="{58DC635F-CC45-4482-A165-05181E5B587E}" />
+					<Child Name="BtnCancel" Owner="{E574C7F2-3514-4561-AD4A-792E02B4AA48}" />
+				</Child>
+				<Child Name="EdtValue" Owner="{949C7962-6E56-4EC9-9A11-E0E4E4678087}" />
+				<Child Name="LblCurrVal" Owner="{98448B1D-7A36-4B3A-88C1-9D6230BCEC58}" />
+				<Child Name="LblValue" Owner="{E845F519-D05F-4E59-A75A-9F3E419A09DF}" />
+			</Child>
+			<Child Name="DlgTemplateFile" Owner="{AB04ED42-35F4-40BF-9EDD-E11B100CF5C4}">
+				<Child Name="TabControl" Owner="{5A8499FA-3F10-4B85-BA80-9709A56FDC1A}">
+					<Child Name="LbxTemplate" Owner="{C5A4E75F-5664-482C-B21A-3027905F9ECC}" />
+				</Child>
+				<Child Name="OKBtn" Owner="{794CFEA5-D3E6-44D6-B06A-1F21F41CFE89}" />
+				<Child Name="CancelBtn" Owner="{E9CFDC32-35BD-4950-8C3B-0895554FAFC7}" />
+			</Child>
+			<Child Name="dlgWarning" Owner="{1F4ED630-9E4B-47D7-9FA2-EEF638C8210E}">
+				<Child Name="Warning" Owner="{B0592EED-4897-4A34-8D0B-9D702AC7EB76}">
+					<Child Name="CtrlNotifySink" Owner="{6DC3F3D1-B9BD-4EBA-8D94-985B8860CA10}">
+						<Child Name="btnOK" Owner="{FECA6338-69E7-438A-91FE-9DF962201F5C}" />
+					</Child>
+				</Child>
+			</Child>
+			<Child Name="Item" Owner="{93B539E7-4607-4CC2-9163-8C181DF1FFF4}" />
+			<Child Name="wndiTools" Owner="{ED9B5D20-4E50-4121-B926-C4458DEA0C8B}" />
+			<Child Name="DlgServerCommand" Owner="{6A89225C-C809-4813-A4E5-F4118F0AA1DC}" />
+			<Child Name="TMessageForm2" Owner="{2FD4D6EE-905A-4DE2-B5A3-FE352F80D487}">
+				<Child Name="No" Owner="{AC648DBF-2E51-4605-9482-37921C1FD1E0}" />
+			</Child>
+		</Child>
+		<Child Name="explorer" Owner="{BD52C460-4A51-4AC8-BC7A-2909FC1FCA16}">
+			<Child Name="wndShell_TrayWnd" Owner="{E4255177-52DB-4164-8353-6AD2C2DF96DA}">
+				<Child Name="ReBarWindow32" Owner="{F556071E-00A4-421E-8A35-E6BDA43DA4B5}">
+					<Child Name="MSTaskSwWClass" Owner="{1CFD1EE2-2F17-4739-8B74-19C2DB8A4661}">
+						<Child Name="MSTaskListWClass" Owner="{199A0C02-D087-4871-972B-258AE908FEBD}" />
+					</Child>
+				</Child>
+				<Child Name="TrayDummySearchControl" Owner="{CE1F3375-1FBA-4458-892D-C12C9C20577C}">
+					<Child Name="btn" Owner="{6BE796E6-B8DE-4EE1-B070-80B385BC53D6}" />
+				</Child>
+			</Child>
+			<Child Name="dlgTestDataProperties" Owner="{7277011A-A45A-441F-AAD6-30A8B390C93C}" />
+			<Child Name="dlg" Owner="{6E5357C3-6B5C-4F55-8612-5B5B59B33FCE}">
+				<Child Name="btnClose" Owner="{1ACFE7AE-9549-452A-9AFE-D255492C00B1}" />
+			</Child>
+			<Child Name="wndProgman" Owner="{EDB50A1F-36E9-4C5E-AC90-1AD660C7DB0E}">
+				<Child Name="SHELLDLL_DefView" Owner="{5B196EE1-CD38-460B-9160-C578B054B3A2}">
+					<Child Name="FolderView" Owner="{F3830CF1-7216-4949-ACB4-2E5A0C981C24}" />
+				</Child>
+			</Child>
+			<Child Name="wndCabinetWClass" Owner="{858AC0C1-F962-40E0-9400-2A1CB612AAD5}">
+				<Child Name="ShellTabWindowClass" Owner="{963488A2-0A21-4F4F-82B0-F5FFF9663A57}">
+					<Child Name="DUIViewWndClassName" Owner="{C7D268EC-A008-4276-9E9B-C981478E5DC6}">
+						<Child Name="Explorer_Pane" Owner="{9541EC54-806B-498E-B11D-DFFBD5FE4614}">
+							<Child Name="CtrlNotifySink" Owner="{715E84B7-5E72-431F-B11C-F8EA3D6396A7}">
+								<Child Name="ShellView" Owner="{5B93131F-5287-4BD5-9A19-4769FC5ABA26}">
+									<Child Name="Items_View" Owner="{34724204-6B66-44AF-97D9-5913585137B5}">
+										<Child Name="Program_Files_x86_" Owner="{41BB1B4E-9901-4EE8-959B-3D6D4AD2C6AF}">
+											<Child Name="Name" Owner="{9F4FEBE5-5AF3-4542-BCCB-A908766D5027}" />
+										</Child>
+										<Child Name="Eurotherm" Owner="{96AD8EBF-1938-47C9-AA88-D2EB2EF491B3}">
+											<Child Name="Name" Owner="{ADAA3691-83EA-4620-AE26-2D821C301A06}" />
+										</Child>
+										<Child Name="iTools" Owner="{0F6C1E95-87BC-430C-80F4-DC8FEAABE1C3}" />
+									</Child>
+								</Child>
+							</Child>
+						</Child>
+					</Child>
+				</Child>
+				<Child Name="WorkerW" Owner="{96F5C554-1311-4CF6-9C0C-A1CE1E9BD079}">
+					<Child Name="ReBarWindow32" Owner="{12D9B543-9A3D-47DC-B88A-20B639686485}">
+						<Child Name="UniversalSearchBand" Owner="{FE86BCAB-E20B-4FDC-9A75-B0A7BC3041E0}">
+							<Child Name="SearchEditBox" Owner="{0D9C37D5-B0CE-45C6-AF21-10E462867C52}" />
+						</Child>
+					</Child>
+				</Child>
+			</Child>
+		</Child>
+		<Child Name="notepad" Owner="{53A2ADA2-6226-4623-A3A3-C913C7050290}">
+			<Child Name="wndNotepad" Owner="{8E63CE95-10E1-4E3B-ACA1-E61CEF9DDD19}" />
+			<Child Name="dlgNotepad" Owner="{4B19D3EF-2E08-40D1-862F-7F186C5CAE78}">
+				<Child Name="Notepad" Owner="{B3EDDAC1-C4E3-4BD0-8882-6D483575A828}">
+					<Child Name="CtrlNotifySink" Owner="{7D9419BC-606B-442E-8FA7-04071D3DD8A1}">
+						<Child Name="btnDontSave" Owner="{E2D594BA-24FA-4138-A564-EEFDF30E409F}" />
+					</Child>
+				</Child>
+			</Child>
+		</Child>
+		<Child Name="cmd" Owner="{979C1806-12ED-432A-8860-948F2A4210FB}">
+			<Child Name="wndConsoleWindowClass" Owner="{6E6C7110-5333-4BCF-8572-4402F6BCA618}" />
+		</Child>
+		<Child Name="browser" Owner="{20AF3C44-F5CE-4655-B781-8D2D1A15CD31}">
+			<Child Name="BrowserWindow" Owner="{4A4BBE5E-D2D6-4D3A-BC3A-BD927BBDD78E}" />
+		</Child>
+	</LogicalNodes>
+</Root>

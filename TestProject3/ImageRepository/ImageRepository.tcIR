@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{E7C36009-4A66-4899-99AE-DEFC5C22C057}" version="1400" key="{1FC23FF9-D691-47BA-B783-D7F3B654138C}" typeId="{E7C36009-4A66-4899-99AE-DEFC5C22C057}">
+	<config nodeName="ImageRepository" />
+	<testData />
+	<data />
+	<children>
+		<child key="{FCC51483-CAB5-43FC-96D2-277488DA04D3}" path="ImageSet5.tcIRIS" />
+		<child key="{2C40D1E5-60CD-4C5E-8207-E6C60AC65B95}" path="ImageSet10.tcIRIS" />
+		<child key="{715E7D20-A485-4FAF-84A3-3D77BBBBA2D4}" path="ImageSet11.tcIRIS" />
+		<child key="{62BDDCAD-BA54-4BC3-8466-78A1968F6DBF}" path="ImageSet1.tcIRIS" />
+		<child key="{A1630E64-C3B0-4AA5-BCD7-959FD27D87FD}" path="ImageSet12.tcIRIS" />
+		<child key="{72B7FCE8-5B50-4AD9-9179-D7559D6A5C31}" path="ImageSet2.tcIRIS" />
+		<child key="{E23877A1-2349-44B8-98E6-B0EAB6D9C69B}" path="ImageSet3.tcIRIS" />
+		<child key="{9EE418B8-8A87-4E2D-B8E3-DA7086668BD9}" path="ImageSet4.tcIRIS" />
+		<child key="{1D0B0BAD-A48A-4B87-BFD4-A4C6E9E0FF6B}" path="ImageSet6.tcIRIS" />
+		<child key="{EBCAFDA3-C4F1-4F58-ACD7-EF365CD586EF}" path="ImageSet7.tcIRIS" />
+		<child key="{72D5FA29-7A88-472B-AE74-AE0C3D4905C3}" path="ImageSet8.tcIRIS" />
+	</children>
+</Root>

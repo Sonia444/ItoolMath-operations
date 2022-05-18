@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{9252F941-DB23-4FCA-AA50-858B33BB4A19}" version="11.40">
+	<children>
+		<child name="Performlogicoperations" key="{0B1BF7AF-510A-4CBF-857F-6ACBB348B804}" path="Performlogicoperations.py" />
+		<child name="TeriminalWiring" key="{A6677CCA-90E9-479F-85B1-B197B00EDFBD}" path="TeriminalWiring.py" />
+		<child name="Devicepanel" key="{521D1EA2-1C84-4871-B5A6-0322D26DC486}" path="Devicepanel.py" />
+		<child name="iToolsoperations" key="{FBA50E54-3BCE-4FC3-8653-9D074B6C71E7}" path="iToolsoperations.py" />
+		<child name="Performmathoperations" key="{23736DCA-8B96-44D1-A66B-D9EE70C89139}" path="Performmathoperations.py" />
+		<child name="DevicepanelMak____" key="{0B84D721-1F7F-4368-9C1E-DEF817C34E10}" path="DevicepanelMak____.py" />
+		<child name="Unit1" key="{BA55C7BD-712D-4D20-890B-263616ACBE41}" path="Unit1.py" />
+	</children>
+</Root>

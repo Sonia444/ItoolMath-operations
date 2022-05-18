@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{302E54A8-7D5B-4593-9563-357C2734256B}" version="1400" key="{2C40D1E5-60CD-4C5E-8207-E6C60AC65B95}" typeId="{302E54A8-7D5B-4593-9563-357C2734256B}">
+	<config nodeName="ImageSet10" />
+	<testData />
+	<data>
+		<item caption="Item11" moniker="{5B23088A-25E1-48EA-9EDA-46930E6B67C7}" isComposite="False" simpleMode="True" currentImageIndex="0">
+			<image imageFileName="Data\Item11.png" initialHash="00000000" selectionLeft="615" selectionTop="178" selectionWidth="48" selectionHeight="66" initialLeft="615" initialTop="178" initialWidth="48" initialHeight="66" pixelTolerance="0" colorTolerance="0" deviceName="" />
+		</item>
+	</data>
+</Root>
